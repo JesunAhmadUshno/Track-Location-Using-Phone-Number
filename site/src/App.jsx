@@ -87,7 +87,7 @@ function Hero() {
         <p className="eyebrow">Python coursework · region-level lookup</p>
         <span className="pill warn">● Region, not device</span>
       </div>
-      <h1>A phone number tells you its <em>registered region</em> and carrier, not where the phone is: a four-step Python pipeline from number to map pin.</h1>
+      <h1>A phone number tells you its <em>registered region</em> and carrier, not where the phone is: a five-step Python pipeline from number to map pin.</h1>
       <p className="sub">
         The repo is named "Track Location Using Phone Number", but the code never touches a phone. It reads the number's prefix against an offline table,
         gets a place name such as "Dhaka" and the carrier the range was first allocated to, asks the OpenCage geocoder where that place name is, and drops a map pin on its centre.
