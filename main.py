@@ -60,7 +60,16 @@ def main(argv):
     if not key:
         print("OPENCAGE_API_KEY not set: skipping geocode and map (stages 4-5).")
         return 0
-    lat, lng = geocode(info["location"], key)
+    import requests
+    from opencage.geocoder import OpenCageGeocodeError
+
+    try:
+        lat, lng = geocode(info["location"], key)
+    except (OpenCageGeocodeError, requests.exceptions.RequestException, LookupError) as err:
+        # The client already retries network errors and server faults with backoff; what is left
+        # (bad key, quota, rate limit, offline, no match) is reported in one line, exit code 1.
+        print(f"geocode failed ({type(err).__name__}): {err}", file=sys.stderr)
+        return 1
     print(lat, lng)
     print("saved", save_map(lat, lng, info["location"]))
     return 0
