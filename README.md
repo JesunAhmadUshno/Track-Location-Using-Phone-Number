@@ -29,7 +29,7 @@ Sample output of the offline stages for the library's example Bangladeshi mobile
 ```
 Bangladesh
 Robi
-OPENCAGE_API_KEY not set: skipping geocode and map (stages 3-4).
+OPENCAGE_API_KEY not set: skipping geocode and map (stages 4-5).
 ```
 
 Run the offline tests with `python -m pytest -q test_lookup.py`. Regenerate the dashboard data with

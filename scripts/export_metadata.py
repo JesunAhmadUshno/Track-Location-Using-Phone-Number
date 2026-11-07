@@ -2,7 +2,7 @@
 
 Writes:
   results/calling_codes.json   country calling code -> region codes, plus summary counts
-  results/example_lookups.json stages 1-2 of main.py run on the library's own example numbers
+  results/example_lookups.json stages 1-3 of main.py run on the library's own example numbers
 
 Only phonenumbers.example_number* values are used, never a real person's number.
 Run: python scripts/export_metadata.py

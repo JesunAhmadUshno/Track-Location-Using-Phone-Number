@@ -1,4 +1,4 @@
-"""Offline smoke test for stages 1-2 (no network, no API key)."""
+"""Offline smoke test for stages 1-3 (no network, no API key)."""
 import pytest
 from phonenumbers import NumberParseException
 

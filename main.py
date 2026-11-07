@@ -4,8 +4,8 @@ This is region-level metadata from the number's prefix, not device tracking: the
 the geocoded centre of a place name (for example "Dhaka"), never on where the phone actually is.
 
 Usage:
-    python main.py +14155552671            # stages 1-2 only (offline, no key needed)
-    OPENCAGE_API_KEY=... python main.py +14155552671   # also geocodes and writes mylocation.html
+    python main.py +12015550123            # stages 1-3 only (offline, no key needed)
+    OPENCAGE_API_KEY=... python main.py +12015550123   # also geocodes and writes mylocation.html
 """
 import os
 import sys
@@ -15,7 +15,7 @@ from phonenumbers import carrier, geocoder
 
 
 def lookup(number, lang="en"):
-    """Stages 1-2: parse the number and read its offline region description and carrier."""
+    """Stages 1-3: parse the number and read its offline region description and carrier."""
     parsed = phonenumbers.parse(number)  # raises NumberParseException on malformed input
     if not phonenumbers.is_valid_number(parsed):
         raise ValueError(f"not a valid phone number: {number!r}")
@@ -30,7 +30,7 @@ def lookup(number, lang="en"):
 
 
 def geocode(location, key):
-    """Stage 3: turn the region description into the centre point of that place (OpenCage API)."""
+    """Stage 4: turn the region description into the centre point of that place (OpenCage API)."""
     from opencage.geocoder import OpenCageGeocode
 
     results = OpenCageGeocode(key).geocode(str(location))
@@ -40,7 +40,7 @@ def geocode(location, key):
 
 
 def save_map(lat, lng, label, path="mylocation.html"):
-    """Stage 4: drop a pin on the geocoded centre and save an HTML map."""
+    """Stage 5: drop a pin on the geocoded centre and save an HTML map."""
     import folium
 
     my_map = folium.Map(location=[lat, lng], zoom_start=9)
@@ -58,7 +58,7 @@ def main(argv):
     print(info["carrier"])
     key = os.environ.get("OPENCAGE_API_KEY")
     if not key:
-        print("OPENCAGE_API_KEY not set: skipping geocode and map (stages 3-4).")
+        print("OPENCAGE_API_KEY not set: skipping geocode and map (stages 4-5).")
         return 0
     lat, lng = geocode(info["location"], key)
     print(lat, lng)
