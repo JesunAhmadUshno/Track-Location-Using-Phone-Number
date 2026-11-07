@@ -1,0 +1,52 @@
+/* Additions on top of the Lab OS base (styles.css is kept verbatim from the reference build). */
+.pipe { margin-top: 16px; align-items: start; }
+.pipe > * { min-width: 0; }
+.stepper { padding: 0; margin: 0; list-style: none; display: grid; gap: 8px; }
+.stepper li { display: block; }
+.stage { width: 100%; display: flex; align-items: center; gap: 12px; text-align: left; padding: 12px 14px; border-radius: 12px; cursor: pointer;
+  border: 1px solid var(--border); background: var(--surface-strong); color: var(--text); font: inherit; transition: border-color .15s, box-shadow .15s; }
+.stage:hover { border-color: var(--primary); }
+.stage.on { border-color: var(--primary); box-shadow: 0 0 0 3px var(--primary-pale); }
+.stage:focus-visible, .chip:focus-visible { outline: 3px solid var(--primary); outline-offset: 2px; }
+.stage .n { flex: none; width: 28px; height: 28px; border-radius: 50%; display: grid; place-items: center; font-weight: 700; font-size: 13px; background: var(--primary-pale); color: var(--primary); }
+.stage.on .n { background: var(--primary); color: var(--surface-strong); }
+.stage .body { flex: 1; min-width: 0; display: grid; }
+.stage .body b { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; font-size: 12.5px; }
+.stage .body small { color: var(--muted); font-size: 12px; }
+.stage .pill { flex: none; }
+.stage-note { padding: 14px 16px; margin-bottom: 12px; }
+.stage-note h3 { margin: 0 0 4px; }
+.stage-note p { margin: 4px 0 0; }
+pre.src { position: relative; margin: 0; padding: 12px 0; max-height: 380px; overflow: auto; border-radius: 12px; background: #1b1915; color: #d9d3c7;
+  font: 500 11.5px/1.65 'JetBrains Mono', ui-monospace, monospace; }
+pre.src span { display: block; padding: 0 14px 0 0; white-space: pre; opacity: .55; }
+pre.src span.hl { opacity: 1; background: rgba(123, 157, 255, 0.18); box-shadow: inset 3px 0 0 #7b9dff; color: #fff; }
+pre.src i { display: inline-block; width: 38px; padding-right: 12px; text-align: right; font-style: normal; color: #7c766b; user-select: none; }
+.inspect-field { margin-top: 16px; }
+.inspect-field label { display: block; font-weight: 600; margin-bottom: 6px; }
+.num-input, .text-input { width: 100%; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--border); background: var(--surface-strong); color: var(--text);
+  font: 500 18px 'JetBrains Mono', ui-monospace, monospace; }
+.text-input { font: 14px Inter, sans-serif; padding: 9px 12px; border-radius: 10px; }
+.num-input:focus-visible, .text-input:focus-visible { outline: 3px solid var(--primary); outline-offset: 1px; }
+.chips { display: flex; flex-wrap: wrap; gap: 8px; align-items: center; margin-top: 10px; }
+.chip { padding: 5px 11px; border-radius: 999px; border: 1px solid var(--border); background: var(--surface-strong); color: var(--text); cursor: pointer;
+  font: 500 11.5px 'JetBrains Mono', ui-monospace, monospace; }
+.chip:hover { border-color: var(--primary); color: var(--primary); }
+.tile .num.mono-num { font-family: 'JetBrains Mono', ui-monospace, monospace; font-size: 22px; line-height: 1.8; word-break: break-all; }
+.status-line { margin: 14px 0 0; padding: 10px 14px; border-radius: 10px; font-size: 13.5px; }
+.status-line.ok { background: var(--good-bg); color: var(--good); }
+.status-line.no { background: var(--warn-bg); color: var(--warn); }
+.known { margin-top: 18px; }
+.table-wrap { overflow-x: auto; margin-top: 8px; }
+.table-wrap td.mono, .table-wrap td .mono { white-space: nowrap; }
+.not-run { margin-top: 18px; }
+.not-run .tile p { margin: 0; }
+.rec-controls { grid-template-columns: 2fr 1fr auto; align-items: end; margin-top: 16px; }
+.rec-controls .lab-text { display: block; font-size: 12.5px; font-weight: 600; color: var(--muted); margin-bottom: 6px; }
+.ladder-notes { margin: 8px 0 0; padding-left: 18px; color: var(--muted); font-size: 13px; }
+.ladder-notes li { margin: 3px 0; }
+.privacy { margin-top: 16px; padding: 16px 18px; border-left: 3px solid var(--warn); }
+.privacy h3 { margin: 0 0 4px; }
+@media (max-width: 760px) {
+  .rec-controls { grid-template-columns: 1fr; }
+}
