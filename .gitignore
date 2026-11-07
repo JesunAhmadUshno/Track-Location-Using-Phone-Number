@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# map written by main.py at runtime
+mylocation.html
+
+# site build
+site/node_modules/
+site/dist/
+site/.rubric/

@@ -1,29 +1,70 @@
+"""Find the registered region and carrier of a phone number, then pin that region on a map.
+
+This is region-level metadata from the number's prefix, not device tracking: the map pin sits on
+the geocoded centre of a place name (for example "Dhaka"), never on where the phone actually is.
+
+Usage:
+    python main.py +14155552671            # stages 1-2 only (offline, no key needed)
+    OPENCAGE_API_KEY=... python main.py +14155552671   # also geocodes and writes mylocation.html
+"""
+import os
+import sys
+
 import phonenumbers
-import opencage
-from myphone import number
+from phonenumbers import carrier, geocoder
 
-from phonenumbers import geocoder
 
-pepnumber = phonenumbers.parse(number)
-location = geocoder.description_for_number (pepnumber, "en")
-print(location)
+def lookup(number, lang="en"):
+    """Stages 1-2: parse the number and read its offline region description and carrier."""
+    parsed = phonenumbers.parse(number)  # raises NumberParseException on malformed input
+    if not phonenumbers.is_valid_number(parsed):
+        raise ValueError(f"not a valid phone number: {number!r}")
+    return {
+        "e164": phonenumbers.format_number(parsed, phonenumbers.PhoneNumberFormat.E164),
+        "country_code": parsed.country_code,
+        "region": phonenumbers.region_code_for_number(parsed),
+        "location": geocoder.description_for_number(parsed, lang),
+        "carrier": carrier.name_for_number(parsed, lang),
+        "type": phonenumbers.number_type(parsed),
+    }
 
-from phonenumbers import carrier
-service_pro = phonenumbers.parse(number)
-print(carrier.name_for_number(service_pro, "en"))
 
-from opencage.geocoder import OpenCageGeocode
+def geocode(location, key):
+    """Stage 3: turn the region description into the centre point of that place (OpenCage API)."""
+    from opencage.geocoder import OpenCageGeocode
 
-key = 'b26cfb3457c0441ba38e7a26f85d4a21'
-geocoder = OpenCageGeocode(key)
-query = str(location)
-results = geocoder.geocode(query)
-print (results)
+    results = OpenCageGeocode(key).geocode(str(location))
+    if not results:
+        raise LookupError(f"OpenCage found no place called {location!r}")
+    return results[0]["geometry"]["lat"], results[0]["geometry"]["lng"]
 
-lat = results[0]['geometry']['lat']
-lng = results[0]['geometry']['lng']
 
-print(lat,lng)
-myMap = folium.Map(location=[lat, lng], zoom_start=9)
-folium.Marker([lat,lng], popup=location).add_to(myMap)
-myMap.save("mylocation.html")
+def save_map(lat, lng, label, path="mylocation.html"):
+    """Stage 4: drop a pin on the geocoded centre and save an HTML map."""
+    import folium
+
+    my_map = folium.Map(location=[lat, lng], zoom_start=9)
+    folium.Marker([lat, lng], popup=label).add_to(my_map)
+    my_map.save(path)
+    return path
+
+
+def main(argv):
+    number = argv[1] if len(argv) > 1 else os.environ.get("PHONE_NUMBER")
+    if not number:
+        from myphone import number  # a library example number, see myphone.py
+    info = lookup(number)
+    print(info["location"])
+    print(info["carrier"])
+    key = os.environ.get("OPENCAGE_API_KEY")
+    if not key:
+        print("OPENCAGE_API_KEY not set: skipping geocode and map (stages 3-4).")
+        return 0
+    lat, lng = geocode(info["location"], key)
+    print(lat, lng)
+    print("saved", save_map(lat, lng, info["location"]))
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))
