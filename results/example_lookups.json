@@ -1,0 +1,4826 @@
+{
+ "phonenumbers_version": "9.0.43",
+ "generated_by": "scripts/export_metadata.py",
+ "rows": [
+  {
+   "region": "AC",
+   "source": "example",
+   "e164": "+24762889",
+   "country_code": 247,
+   "description": "US Base",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AC",
+   "source": "mobile",
+   "e164": "+24740123",
+   "country_code": 247,
+   "description": "",
+   "country_name": "",
+   "carrier": "Sure South Atlantic",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AD",
+   "source": "example",
+   "e164": "+376712345",
+   "country_code": 376,
+   "description": "Andorra",
+   "country_name": "Andorra",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AD",
+   "source": "mobile",
+   "e164": "+376312345",
+   "country_code": 376,
+   "description": "Andorra",
+   "country_name": "Andorra",
+   "carrier": "Andorra Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AE",
+   "source": "example",
+   "e164": "+97122345678",
+   "country_code": 971,
+   "description": "Abu dhabi",
+   "country_name": "United Arab Emirates",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AE",
+   "source": "mobile",
+   "e164": "+971501234567",
+   "country_code": 971,
+   "description": "United Arab Emirates",
+   "country_name": "United Arab Emirates",
+   "carrier": "Etisalat",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AF",
+   "source": "example",
+   "e164": "+93234567890",
+   "country_code": 93,
+   "description": "Bamian",
+   "country_name": "Afghanistan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AF",
+   "source": "mobile",
+   "e164": "+93701234567",
+   "country_code": 93,
+   "description": "Afghanistan",
+   "country_name": "Afghanistan",
+   "carrier": "AWCC",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AG",
+   "source": "example",
+   "e164": "+12684601234",
+   "country_code": 1,
+   "description": "Antigua and Barbuda",
+   "country_name": "Antigua and Barbuda",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AG",
+   "source": "mobile",
+   "e164": "+12684641234",
+   "country_code": 1,
+   "description": "Antigua and Barbuda",
+   "country_name": "Antigua and Barbuda",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AI",
+   "source": "example",
+   "e164": "+12644612345",
+   "country_code": 1,
+   "description": "Anguilla",
+   "country_name": "Anguilla",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AI",
+   "source": "mobile",
+   "e164": "+12642351234",
+   "country_code": 1,
+   "description": "Anguilla",
+   "country_name": "Anguilla",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AL",
+   "source": "example",
+   "e164": "+35522345678",
+   "country_code": 355,
+   "description": "Shkod\u00ebr",
+   "country_name": "Albania",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AL",
+   "source": "mobile",
+   "e164": "+355672123456",
+   "country_code": 355,
+   "description": "Albania",
+   "country_name": "Albania",
+   "carrier": "One",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AM",
+   "source": "example",
+   "e164": "+37410123456",
+   "country_code": 374,
+   "description": "Yerevan/Jrvezh",
+   "country_name": "Armenia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AM",
+   "source": "mobile",
+   "e164": "+37477123456",
+   "country_code": 374,
+   "description": "Armenia",
+   "country_name": "Armenia",
+   "carrier": "VivaCell-MTS",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AO",
+   "source": "example",
+   "e164": "+244222123456",
+   "country_code": 244,
+   "description": "Luanda",
+   "country_name": "Angola",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AO",
+   "source": "mobile",
+   "e164": "+244923123456",
+   "country_code": 244,
+   "description": "Angola",
+   "country_name": "Angola",
+   "carrier": "UNITEL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AR",
+   "source": "example",
+   "e164": "+541123456789",
+   "country_code": 54,
+   "description": "Buenos Aires",
+   "country_name": "Argentina",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AR",
+   "source": "mobile",
+   "e164": "+5491123456789",
+   "country_code": 54,
+   "description": "Buenos Aires",
+   "country_name": "Argentina",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AS",
+   "source": "example",
+   "e164": "+16846221234",
+   "country_code": 1,
+   "description": "American Samoa",
+   "country_name": "American Samoa",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AS",
+   "source": "mobile",
+   "e164": "+16847331234",
+   "country_code": 1,
+   "description": "American Samoa",
+   "country_name": "American Samoa",
+   "carrier": "ASTCA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AT",
+   "source": "example",
+   "e164": "+431234567890",
+   "country_code": 43,
+   "description": "Vienna",
+   "country_name": "Austria",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AT",
+   "source": "mobile",
+   "e164": "+43664123456",
+   "country_code": 43,
+   "description": "Austria",
+   "country_name": "Austria",
+   "carrier": "A1 TA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AU",
+   "source": "example",
+   "e164": "+61212345678",
+   "country_code": 61,
+   "description": "New South Wales",
+   "country_name": "Australia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AU",
+   "source": "mobile",
+   "e164": "+61412345678",
+   "country_code": 61,
+   "description": "",
+   "country_name": "",
+   "carrier": "Optus",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AW",
+   "source": "example",
+   "e164": "+2975212345",
+   "country_code": 297,
+   "description": "Aruba",
+   "country_name": "Aruba",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AW",
+   "source": "mobile",
+   "e164": "+2975601234",
+   "country_code": 297,
+   "description": "Aruba",
+   "country_name": "Aruba",
+   "carrier": "SETAR",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AX",
+   "source": "example",
+   "e164": "+358181234567",
+   "country_code": 358,
+   "description": "\u00c5land Islands",
+   "country_name": "\u00c5land Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AX",
+   "source": "mobile",
+   "e164": "+358412345678",
+   "country_code": 358,
+   "description": "",
+   "country_name": "",
+   "carrier": "DNA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "AZ",
+   "source": "example",
+   "e164": "+994123123456",
+   "country_code": 994,
+   "description": "Baku",
+   "country_name": "Azerbaijan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "AZ",
+   "source": "mobile",
+   "e164": "+994401234567",
+   "country_code": 994,
+   "description": "Azerbaijan",
+   "country_name": "Azerbaijan",
+   "carrier": "FONEX",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BA",
+   "source": "example",
+   "e164": "+38730212345",
+   "country_code": 387,
+   "description": "Central Bosnia Canton",
+   "country_name": "Bosnia and Herzegovina",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BA",
+   "source": "mobile",
+   "e164": "+38761123456",
+   "country_code": 387,
+   "description": "Bosnia and Herzegovina",
+   "country_name": "Bosnia and Herzegovina",
+   "carrier": "BH Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BB",
+   "source": "example",
+   "e164": "+12464123456",
+   "country_code": 1,
+   "description": "Barbados",
+   "country_name": "Barbados",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BB",
+   "source": "mobile",
+   "e164": "+12462501234",
+   "country_code": 1,
+   "description": "Barbados",
+   "country_name": "Barbados",
+   "carrier": "Cable & Wireless",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BD",
+   "source": "example",
+   "e164": "+88027111234",
+   "country_code": 880,
+   "description": "Dhaka",
+   "country_name": "Bangladesh",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BD",
+   "source": "mobile",
+   "e164": "+8801812345678",
+   "country_code": 880,
+   "description": "Bangladesh",
+   "country_name": "Bangladesh",
+   "carrier": "Robi",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BE",
+   "source": "example",
+   "e164": "+3212345678",
+   "country_code": 32,
+   "description": "Tongeren",
+   "country_name": "Belgium",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BE",
+   "source": "mobile",
+   "e164": "+32450001234",
+   "country_code": 32,
+   "description": "Belgium",
+   "country_name": "Belgium",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BF",
+   "source": "example",
+   "e164": "+22620491234",
+   "country_code": 226,
+   "description": "Kaya",
+   "country_name": "Burkina Faso",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BF",
+   "source": "mobile",
+   "e164": "+22670123456",
+   "country_code": 226,
+   "description": "Burkina Faso",
+   "country_name": "Burkina Faso",
+   "carrier": "Moov Africa",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BG",
+   "source": "example",
+   "e164": "+3592123456",
+   "country_code": 359,
+   "description": "Sofia",
+   "country_name": "Bulgaria",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BG",
+   "source": "mobile",
+   "e164": "+35943012345",
+   "country_code": 359,
+   "description": "Bulgaria",
+   "country_name": "Bulgaria",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BH",
+   "source": "example",
+   "e164": "+97317001234",
+   "country_code": 973,
+   "description": "Bahrain",
+   "country_name": "Bahrain",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BH",
+   "source": "mobile",
+   "e164": "+97336001234",
+   "country_code": 973,
+   "description": "Bahrain",
+   "country_name": "Bahrain",
+   "carrier": "zain BH",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BI",
+   "source": "example",
+   "e164": "+25722201234",
+   "country_code": 257,
+   "description": "Bujumbura",
+   "country_name": "Burundi",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BI",
+   "source": "mobile",
+   "e164": "+25779561234",
+   "country_code": 257,
+   "description": "Burundi",
+   "country_name": "Burundi",
+   "carrier": "Leo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BJ",
+   "source": "example",
+   "e164": "+2290120211234",
+   "country_code": 229,
+   "description": "Ongala",
+   "country_name": "Benin",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BJ",
+   "source": "mobile",
+   "e164": "+2290195123456",
+   "country_code": 229,
+   "description": "Benin",
+   "country_name": "Benin",
+   "carrier": "Moov",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BL",
+   "source": "example",
+   "e164": "+590590271234",
+   "country_code": 590,
+   "description": "",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BL",
+   "source": "mobile",
+   "e164": "+590690001234",
+   "country_code": 590,
+   "description": "",
+   "country_name": "",
+   "carrier": "SFR/Rife",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BM",
+   "source": "example",
+   "e164": "+14414123456",
+   "country_code": 1,
+   "description": "Bermuda",
+   "country_name": "Bermuda",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BM",
+   "source": "mobile",
+   "e164": "+14413701234",
+   "country_code": 1,
+   "description": "Bermuda",
+   "country_name": "Bermuda",
+   "carrier": "Mobility",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BN",
+   "source": "example",
+   "e164": "+6732345678",
+   "country_code": 673,
+   "description": "Brunei Muara",
+   "country_name": "Brunei",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BN",
+   "source": "mobile",
+   "e164": "+6737123456",
+   "country_code": 673,
+   "description": "Brunei",
+   "country_name": "Brunei",
+   "carrier": "UNN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BO",
+   "source": "example",
+   "e164": "+59122123456",
+   "country_code": 591,
+   "description": "Bolivia",
+   "country_name": "Bolivia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BO",
+   "source": "mobile",
+   "e164": "+59171234567",
+   "country_code": 591,
+   "description": "Bolivia",
+   "country_name": "Bolivia",
+   "carrier": "Entel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BQ",
+   "source": "example",
+   "e164": "+5997151234",
+   "country_code": 599,
+   "description": "Bonaire",
+   "country_name": "Bonaire, Sint Eustatius and Saba",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BQ",
+   "source": "mobile",
+   "e164": "+5993181234",
+   "country_code": 599,
+   "description": "Bonaire, Sint Eustatius and Saba",
+   "country_name": "Bonaire, Sint Eustatius and Saba",
+   "carrier": "Telcell",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BR",
+   "source": "example",
+   "e164": "+551123456789",
+   "country_code": 55,
+   "description": "S\u00e3o Paulo",
+   "country_name": "Brazil",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BR",
+   "source": "mobile",
+   "e164": "+5511961234567",
+   "country_code": 55,
+   "description": "S\u00e3o Paulo",
+   "country_name": "Brazil",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BS",
+   "source": "example",
+   "e164": "+12423456789",
+   "country_code": 1,
+   "description": "Exuma",
+   "country_name": "Bahamas",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BS",
+   "source": "mobile",
+   "e164": "+12423591234",
+   "country_code": 1,
+   "description": "Bahamas",
+   "country_name": "Bahamas",
+   "carrier": "BaTelCo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BT",
+   "source": "example",
+   "e164": "+9752345678",
+   "country_code": 975,
+   "description": "Thimphu",
+   "country_name": "Bhutan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BT",
+   "source": "mobile",
+   "e164": "+97517123456",
+   "country_code": 975,
+   "description": "Bhutan",
+   "country_name": "Bhutan",
+   "carrier": "B-Mobile of Bhutan Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BW",
+   "source": "example",
+   "e164": "+2672401234",
+   "country_code": 267,
+   "description": "Francistown",
+   "country_name": "Botswana",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BW",
+   "source": "mobile",
+   "e164": "+26771123456",
+   "country_code": 267,
+   "description": "Botswana",
+   "country_name": "Botswana",
+   "carrier": "Mascom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BY",
+   "source": "example",
+   "e164": "+375152450911",
+   "country_code": 375,
+   "description": "Grodno",
+   "country_name": "Belarus",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BY",
+   "source": "mobile",
+   "e164": "+375294911911",
+   "country_code": 375,
+   "description": "Belarus",
+   "country_name": "Belarus",
+   "carrier": "Belcel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "BZ",
+   "source": "example",
+   "e164": "+5012221234",
+   "country_code": 501,
+   "description": "Belize District",
+   "country_name": "Belize",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "BZ",
+   "source": "mobile",
+   "e164": "+5016221234",
+   "country_code": 501,
+   "description": "Belize",
+   "country_name": "Belize",
+   "carrier": "Belize Telemedia Ltd (Digi)",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CA",
+   "source": "example",
+   "e164": "+15062345678",
+   "country_code": 1,
+   "description": "New Brunswick",
+   "country_name": "Canada",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "CC",
+   "source": "example",
+   "e164": "+61891621234",
+   "country_code": 61,
+   "description": "Cocos Island",
+   "country_name": "Cocos Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CC",
+   "source": "mobile",
+   "e164": "+61412345678",
+   "country_code": 61,
+   "description": "",
+   "country_name": "",
+   "carrier": "Optus",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CD",
+   "source": "example",
+   "e164": "+2431234567",
+   "country_code": 243,
+   "description": "Kinshasa",
+   "country_name": "The Democratic Republic Of Congo",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CD",
+   "source": "mobile",
+   "e164": "+243991234567",
+   "country_code": 243,
+   "description": "The Democratic Republic Of Congo",
+   "country_name": "The Democratic Republic Of Congo",
+   "carrier": "Airtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CF",
+   "source": "example",
+   "e164": "+23621612345",
+   "country_code": 236,
+   "description": "Bangui",
+   "country_name": "Central African Republic",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CF",
+   "source": "mobile",
+   "e164": "+23670012345",
+   "country_code": 236,
+   "description": "Central African Republic",
+   "country_name": "Central African Republic",
+   "carrier": "A-Cell",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CG",
+   "source": "example",
+   "e164": "+242222123456",
+   "country_code": 242,
+   "description": "Cuvette",
+   "country_name": "Congo",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CG",
+   "source": "mobile",
+   "e164": "+242061234567",
+   "country_code": 242,
+   "description": "Congo",
+   "country_name": "Congo",
+   "carrier": "MTN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CH",
+   "source": "example",
+   "e164": "+41212345678",
+   "country_code": 41,
+   "description": "Lausanne",
+   "country_name": "Switzerland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CH",
+   "source": "mobile",
+   "e164": "+41781234567",
+   "country_code": 41,
+   "description": "Switzerland",
+   "country_name": "Switzerland",
+   "carrier": "Salt",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CI",
+   "source": "example",
+   "e164": "+2252123456789",
+   "country_code": 225,
+   "description": "Banco, Abidjan",
+   "country_name": "C\u00f4te d'Ivoire",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CI",
+   "source": "mobile",
+   "e164": "+2250123456789",
+   "country_code": 225,
+   "description": "C\u00f4te d'Ivoire",
+   "country_name": "C\u00f4te d'Ivoire",
+   "carrier": "Moov",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CK",
+   "source": "example",
+   "e164": "+68221234",
+   "country_code": 682,
+   "description": "Rarotonga",
+   "country_name": "Cook Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CK",
+   "source": "mobile",
+   "e164": "+68271234",
+   "country_code": 682,
+   "description": "Cook Islands",
+   "country_name": "Cook Islands",
+   "carrier": "Bluesky",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CL",
+   "source": "example",
+   "e164": "+56600123456",
+   "country_code": 56,
+   "description": "Chile",
+   "country_name": "Chile",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CL",
+   "source": "mobile",
+   "e164": "+56221234567",
+   "country_code": 56,
+   "description": "Santiago, Metropolitan Region",
+   "country_name": "Chile",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "CM",
+   "source": "example",
+   "e164": "+237222123456",
+   "country_code": 237,
+   "description": "Cameroon",
+   "country_name": "Cameroon",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CM",
+   "source": "mobile",
+   "e164": "+237671234567",
+   "country_code": 237,
+   "description": "Cameroon",
+   "country_name": "Cameroon",
+   "carrier": "MTN Cameroon",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CN",
+   "source": "example",
+   "e164": "+861012345678",
+   "country_code": 86,
+   "description": "Beijing",
+   "country_name": "China",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CN",
+   "source": "mobile",
+   "e164": "+8613123456789",
+   "country_code": 86,
+   "description": "Yulin, Guangxi",
+   "country_name": "China",
+   "carrier": "China Unicom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CO",
+   "source": "example",
+   "e164": "+576012345678",
+   "country_code": 57,
+   "description": "Bogot\u00e1",
+   "country_name": "Colombia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CO",
+   "source": "mobile",
+   "e164": "+573211234567",
+   "country_code": 57,
+   "description": "Colombia",
+   "country_name": "Colombia",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CR",
+   "source": "example",
+   "e164": "+50622123456",
+   "country_code": 506,
+   "description": "Costa Rica",
+   "country_name": "Costa Rica",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CR",
+   "source": "mobile",
+   "e164": "+50683123456",
+   "country_code": 506,
+   "description": "Costa Rica",
+   "country_name": "Costa Rica",
+   "carrier": "Kolbi ICE",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CU",
+   "source": "example",
+   "e164": "+5371234567",
+   "country_code": 53,
+   "description": "Havana City",
+   "country_name": "Cuba",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CU",
+   "source": "mobile",
+   "e164": "+5351234567",
+   "country_code": 53,
+   "description": "Cuba",
+   "country_name": "Cuba",
+   "carrier": "etecsa",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CV",
+   "source": "example",
+   "e164": "+2382211234",
+   "country_code": 238,
+   "description": "Ribeira Grande, Santo Ant\u00e3o",
+   "country_name": "Cape Verde",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CV",
+   "source": "mobile",
+   "e164": "+2389911234",
+   "country_code": 238,
+   "description": "Cape Verde",
+   "country_name": "Cape Verde",
+   "carrier": "CVMOVEL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CW",
+   "source": "example",
+   "e164": "+59994351234",
+   "country_code": 599,
+   "description": "Cura\u00e7ao",
+   "country_name": "Cura\u00e7ao",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CW",
+   "source": "mobile",
+   "e164": "+59995181234",
+   "country_code": 599,
+   "description": "Cura\u00e7ao",
+   "country_name": "Cura\u00e7ao",
+   "carrier": "Chippie",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CX",
+   "source": "example",
+   "e164": "+61891641234",
+   "country_code": 61,
+   "description": "Christmas Island",
+   "country_name": "Christmas Island",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CX",
+   "source": "mobile",
+   "e164": "+61412345678",
+   "country_code": 61,
+   "description": "",
+   "country_name": "",
+   "carrier": "Optus",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CY",
+   "source": "example",
+   "e164": "+35722345678",
+   "country_code": 357,
+   "description": "Cyprus",
+   "country_name": "Cyprus",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CY",
+   "source": "mobile",
+   "e164": "+35796123456",
+   "country_code": 357,
+   "description": "Cyprus",
+   "country_name": "Cyprus",
+   "carrier": "MTN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "CZ",
+   "source": "example",
+   "e164": "+420212345678",
+   "country_code": 420,
+   "description": "Prague",
+   "country_name": "Czech Republic",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "CZ",
+   "source": "mobile",
+   "e164": "+420601123456",
+   "country_code": 420,
+   "description": "Czech Republic",
+   "country_name": "Czech Republic",
+   "carrier": "O2",
+   "type": "MOBILE"
+  },
+  {
+   "region": "DE",
+   "source": "example",
+   "e164": "+4930123456",
+   "country_code": 49,
+   "description": "Berlin",
+   "country_name": "Germany",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "DE",
+   "source": "mobile",
+   "e164": "+4915123456789",
+   "country_code": 49,
+   "description": "Germany",
+   "country_name": "Germany",
+   "carrier": "T-Mobile",
+   "type": "MOBILE"
+  },
+  {
+   "region": "DJ",
+   "source": "example",
+   "e164": "+25321360003",
+   "country_code": 253,
+   "description": "Djibouti",
+   "country_name": "Djibouti",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "DJ",
+   "source": "mobile",
+   "e164": "+25377831001",
+   "country_code": 253,
+   "description": "Djibouti",
+   "country_name": "Djibouti",
+   "carrier": "Evatis",
+   "type": "MOBILE"
+  },
+  {
+   "region": "DK",
+   "source": "example",
+   "e164": "+4532123456",
+   "country_code": 45,
+   "description": "Denmark",
+   "country_name": "Denmark",
+   "carrier": "telenor",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "DK",
+   "source": "mobile",
+   "e164": "+4534412345",
+   "country_code": 45,
+   "description": "Denmark",
+   "country_name": "Denmark",
+   "carrier": "telenor",
+   "type": "MOBILE"
+  },
+  {
+   "region": "DM",
+   "source": "example",
+   "e164": "+17674201234",
+   "country_code": 1,
+   "description": "Dominica",
+   "country_name": "Dominica",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "DM",
+   "source": "mobile",
+   "e164": "+17672251234",
+   "country_code": 1,
+   "description": "Dominica",
+   "country_name": "Dominica",
+   "carrier": "Cable & Wireless",
+   "type": "MOBILE"
+  },
+  {
+   "region": "DO",
+   "source": "example",
+   "e164": "+18092345678",
+   "country_code": 1,
+   "description": "Dominican Republic",
+   "country_name": "Dominican Republic",
+   "carrier": "Claro",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "DZ",
+   "source": "example",
+   "e164": "+21312345678",
+   "country_code": 213,
+   "description": "Algeria",
+   "country_name": "Algeria",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "DZ",
+   "source": "mobile",
+   "e164": "+213551234567",
+   "country_code": 213,
+   "description": "Algeria",
+   "country_name": "Algeria",
+   "carrier": "Ooredoo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "EC",
+   "source": "example",
+   "e164": "+59322123456",
+   "country_code": 593,
+   "description": "Pichincha",
+   "country_name": "Ecuador",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "EC",
+   "source": "mobile",
+   "e164": "+593991234567",
+   "country_code": 593,
+   "description": "Ecuador",
+   "country_name": "Ecuador",
+   "carrier": "Claro",
+   "type": "MOBILE"
+  },
+  {
+   "region": "EE",
+   "source": "example",
+   "e164": "+3723212345",
+   "country_code": 372,
+   "description": "Rakvere",
+   "country_name": "Estonia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "EE",
+   "source": "mobile",
+   "e164": "+37251234567",
+   "country_code": 372,
+   "description": "Estonia",
+   "country_name": "Estonia",
+   "carrier": "Telia Eesti AS",
+   "type": "MOBILE"
+  },
+  {
+   "region": "EG",
+   "source": "example",
+   "e164": "+20234567890",
+   "country_code": 20,
+   "description": "Cairo/Giza/Qalyubia",
+   "country_name": "Egypt",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "EG",
+   "source": "mobile",
+   "e164": "+201001234567",
+   "country_code": 20,
+   "description": "Egypt",
+   "country_name": "Egypt",
+   "carrier": "Vodafone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "EH",
+   "source": "example",
+   "e164": "+212528812345",
+   "country_code": 212,
+   "description": "Agadir/Es-Semara/Tarfaya",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "EH",
+   "source": "mobile",
+   "e164": "+212650123456",
+   "country_code": 212,
+   "description": "",
+   "country_name": "",
+   "carrier": "Maroc Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ER",
+   "source": "example",
+   "e164": "+2918370362",
+   "country_code": 291,
+   "description": "Eritrea",
+   "country_name": "Eritrea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ER",
+   "source": "mobile",
+   "e164": "+2917123456",
+   "country_code": 291,
+   "description": "Eritrea",
+   "country_name": "Eritrea",
+   "carrier": "EriTel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ES",
+   "source": "example",
+   "e164": "+34810123456",
+   "country_code": 34,
+   "description": "Madrid",
+   "country_name": "Spain",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ES",
+   "source": "mobile",
+   "e164": "+34612345678",
+   "country_code": 34,
+   "description": "Spain",
+   "country_name": "Spain",
+   "carrier": "Syma",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ET",
+   "source": "example",
+   "e164": "+251111112345",
+   "country_code": 251,
+   "description": "Arada I, Addis Ababa",
+   "country_name": "Ethiopia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ET",
+   "source": "mobile",
+   "e164": "+251911234567",
+   "country_code": 251,
+   "description": "Ethiopia",
+   "country_name": "Ethiopia",
+   "carrier": "Ethio Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "FI",
+   "source": "example",
+   "e164": "+358131234567",
+   "country_code": 358,
+   "description": "North Karelia",
+   "country_name": "Finland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "FI",
+   "source": "mobile",
+   "e164": "+358412345678",
+   "country_code": 358,
+   "description": "",
+   "country_name": "",
+   "carrier": "DNA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "FJ",
+   "source": "example",
+   "e164": "+6793212345",
+   "country_code": 679,
+   "description": "Suva City/Nausori/Korovou",
+   "country_name": "Fiji",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "FJ",
+   "source": "mobile",
+   "e164": "+6797012345",
+   "country_code": 679,
+   "description": "Fiji",
+   "country_name": "Fiji",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "FK",
+   "source": "example",
+   "e164": "+50031234",
+   "country_code": 500,
+   "description": "Falkland Islands",
+   "country_name": "Falkland Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "FK",
+   "source": "mobile",
+   "e164": "+50051234",
+   "country_code": 500,
+   "description": "Falkland Islands",
+   "country_name": "Falkland Islands",
+   "carrier": "Sure South Atlantic Limited",
+   "type": "MOBILE"
+  },
+  {
+   "region": "FM",
+   "source": "example",
+   "e164": "+6913201234",
+   "country_code": 691,
+   "description": "Micronesia",
+   "country_name": "Micronesia",
+   "carrier": "FSMTC",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "FM",
+   "source": "mobile",
+   "e164": "+6913501234",
+   "country_code": 691,
+   "description": "Micronesia",
+   "country_name": "Micronesia",
+   "carrier": "FSMTC",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "FO",
+   "source": "example",
+   "e164": "+298201234",
+   "country_code": 298,
+   "description": "Faroe Islands",
+   "country_name": "Faroe Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "FO",
+   "source": "mobile",
+   "e164": "+298211234",
+   "country_code": 298,
+   "description": "Faroe Islands",
+   "country_name": "Faroe Islands",
+   "carrier": "Faroese Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "FR",
+   "source": "example",
+   "e164": "+33123456789",
+   "country_code": 33,
+   "description": "France",
+   "country_name": "France",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "FR",
+   "source": "mobile",
+   "e164": "+33612345678",
+   "country_code": 33,
+   "description": "France",
+   "country_name": "France",
+   "carrier": "SFR",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GA",
+   "source": "example",
+   "e164": "+24101441234",
+   "country_code": 241,
+   "description": "Libreville",
+   "country_name": "Gabon",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GA",
+   "source": "mobile",
+   "e164": "+24106031234",
+   "country_code": 241,
+   "description": "Gabon",
+   "country_name": "Gabon",
+   "carrier": "Libertis",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GB",
+   "source": "example",
+   "e164": "+441212345678",
+   "country_code": 44,
+   "description": "Birmingham",
+   "country_name": "United Kingdom",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GB",
+   "source": "mobile",
+   "e164": "+447400123456",
+   "country_code": 44,
+   "description": "United Kingdom",
+   "country_name": "United Kingdom",
+   "carrier": "Three",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GD",
+   "source": "example",
+   "e164": "+14732691234",
+   "country_code": 1,
+   "description": "Grenada",
+   "country_name": "Grenada",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GD",
+   "source": "mobile",
+   "e164": "+14734031234",
+   "country_code": 1,
+   "description": "Grenada",
+   "country_name": "Grenada",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GE",
+   "source": "example",
+   "e164": "+995322123456",
+   "country_code": 995,
+   "description": "Tbilisi",
+   "country_name": "Georgia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GE",
+   "source": "mobile",
+   "e164": "+995555123456",
+   "country_code": 995,
+   "description": "Georgia",
+   "country_name": "Georgia",
+   "carrier": "Silknet",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GF",
+   "source": "example",
+   "e164": "+594594101234",
+   "country_code": 594,
+   "description": "French Guiana",
+   "country_name": "French Guiana",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GF",
+   "source": "mobile",
+   "e164": "+594694201234",
+   "country_code": 594,
+   "description": "French Guiana",
+   "country_name": "French Guiana",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GG",
+   "source": "example",
+   "e164": "+441481256789",
+   "country_code": 44,
+   "description": "Guernsey",
+   "country_name": "Guernsey",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GG",
+   "source": "mobile",
+   "e164": "+447781123456",
+   "country_code": 44,
+   "description": "Guernsey",
+   "country_name": "Guernsey",
+   "carrier": "Sure",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GH",
+   "source": "example",
+   "e164": "+233302345678",
+   "country_code": 233,
+   "description": "Accra",
+   "country_name": "Ghana",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GH",
+   "source": "mobile",
+   "e164": "+233231234567",
+   "country_code": 233,
+   "description": "Ghana",
+   "country_name": "Ghana",
+   "carrier": "at",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GI",
+   "source": "example",
+   "e164": "+35020012345",
+   "country_code": 350,
+   "description": "Gibraltar",
+   "country_name": "Gibraltar",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GI",
+   "source": "mobile",
+   "e164": "+35057123456",
+   "country_code": 350,
+   "description": "Gibraltar",
+   "country_name": "Gibraltar",
+   "carrier": "GibTel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GL",
+   "source": "example",
+   "e164": "+299321000",
+   "country_code": 299,
+   "description": "Nuuk",
+   "country_name": "Greenland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GL",
+   "source": "mobile",
+   "e164": "+299221234",
+   "country_code": 299,
+   "description": "Greenland",
+   "country_name": "Greenland",
+   "carrier": "TELE Greenland A/S",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GM",
+   "source": "example",
+   "e164": "+2205661234",
+   "country_code": 220,
+   "description": "Baja Kunda/Basse/Fatoto/Gambisara/Garawol/Misera/Sambakunda/Sudowol",
+   "country_name": "Gambia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GM",
+   "source": "mobile",
+   "e164": "+2203012345",
+   "country_code": 220,
+   "description": "Gambia",
+   "country_name": "Gambia",
+   "carrier": "QCell",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GN",
+   "source": "example",
+   "e164": "+22430241234",
+   "country_code": 224,
+   "description": "Fria",
+   "country_name": "Guinea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GN",
+   "source": "mobile",
+   "e164": "+224601123456",
+   "country_code": 224,
+   "description": "Guinea",
+   "country_name": "Guinea",
+   "carrier": "Sotelgui",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GP",
+   "source": "example",
+   "e164": "+590590201234",
+   "country_code": 590,
+   "description": "Guadeloupe",
+   "country_name": "Guadeloupe",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GP",
+   "source": "mobile",
+   "e164": "+590690001234",
+   "country_code": 590,
+   "description": "",
+   "country_name": "",
+   "carrier": "SFR/Rife",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GQ",
+   "source": "example",
+   "e164": "+240333091234",
+   "country_code": 240,
+   "description": "Bioko",
+   "country_name": "Equatorial Guinea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GQ",
+   "source": "mobile",
+   "e164": "+240222123456",
+   "country_code": 240,
+   "description": "Equatorial Guinea",
+   "country_name": "Equatorial Guinea",
+   "carrier": "GETESA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GR",
+   "source": "example",
+   "e164": "+302123456789",
+   "country_code": 30,
+   "description": "Athens/Piraeus/Salamina",
+   "country_name": "Greece",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GR",
+   "source": "mobile",
+   "e164": "+306912345678",
+   "country_code": 30,
+   "description": "Greece",
+   "country_name": "Greece",
+   "carrier": "M-STAT",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GT",
+   "source": "example",
+   "e164": "+50222456789",
+   "country_code": 502,
+   "description": "Guatemala",
+   "country_name": "Guatemala",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GT",
+   "source": "mobile",
+   "e164": "+50251234567",
+   "country_code": 502,
+   "description": "Guatemala",
+   "country_name": "Guatemala",
+   "carrier": "Telgua",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GU",
+   "source": "example",
+   "e164": "+16713001234",
+   "country_code": 1,
+   "description": "Guam",
+   "country_name": "Guam",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "GW",
+   "source": "example",
+   "e164": "+245443201234",
+   "country_code": 245,
+   "description": "Bissau",
+   "country_name": "Guinea-Bissau",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GW",
+   "source": "mobile",
+   "e164": "+245955012345",
+   "country_code": 245,
+   "description": "Guinea-Bissau",
+   "country_name": "Guinea-Bissau",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "GY",
+   "source": "example",
+   "e164": "+5922201234",
+   "country_code": 592,
+   "description": "B/V Central",
+   "country_name": "Guyana",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "GY",
+   "source": "mobile",
+   "e164": "+5926091234",
+   "country_code": 592,
+   "description": "Guyana",
+   "country_name": "Guyana",
+   "carrier": "GTT",
+   "type": "MOBILE"
+  },
+  {
+   "region": "HK",
+   "source": "example",
+   "e164": "+85221234567",
+   "country_code": 852,
+   "description": "Hong Kong",
+   "country_name": "Hong Kong",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "HK",
+   "source": "mobile",
+   "e164": "+85251234567",
+   "country_code": 852,
+   "description": "Hong Kong",
+   "country_name": "Hong Kong",
+   "carrier": "China Mobile",
+   "type": "MOBILE"
+  },
+  {
+   "region": "HN",
+   "source": "example",
+   "e164": "+50422123456",
+   "country_code": 504,
+   "description": "Rdsi Tegucigalpa (Pri3)",
+   "country_name": "Honduras",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "HN",
+   "source": "mobile",
+   "e164": "+50491234567",
+   "country_code": 504,
+   "description": "Honduras",
+   "country_name": "Honduras",
+   "carrier": "Celtel (Tigo)",
+   "type": "MOBILE"
+  },
+  {
+   "region": "HR",
+   "source": "example",
+   "e164": "+38512345678",
+   "country_code": 385,
+   "description": "Zagreb",
+   "country_name": "Croatia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "HR",
+   "source": "mobile",
+   "e164": "+385921234567",
+   "country_code": 385,
+   "description": "Croatia",
+   "country_name": "Croatia",
+   "carrier": "A1 Telekom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "HT",
+   "source": "example",
+   "e164": "+50922453300",
+   "country_code": 509,
+   "description": "Haiti",
+   "country_name": "Haiti",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "HT",
+   "source": "mobile",
+   "e164": "+50934101234",
+   "country_code": 509,
+   "description": "Haiti",
+   "country_name": "Haiti",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "HU",
+   "source": "example",
+   "e164": "+3612345678",
+   "country_code": 36,
+   "description": "Budapest",
+   "country_name": "Hungary",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "HU",
+   "source": "mobile",
+   "e164": "+36201234567",
+   "country_code": 36,
+   "description": "Hungary",
+   "country_name": "Hungary",
+   "carrier": "Yettel Hungary",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ID",
+   "source": "example",
+   "e164": "+62218350123",
+   "country_code": 62,
+   "description": "Greater Jakarta",
+   "country_name": "Indonesia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ID",
+   "source": "mobile",
+   "e164": "+62812345678",
+   "country_code": 62,
+   "description": "Indonesia",
+   "country_name": "Indonesia",
+   "carrier": "Telkomsel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IE",
+   "source": "example",
+   "e164": "+3532212345",
+   "country_code": 353,
+   "description": "Mallow",
+   "country_name": "Ireland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IE",
+   "source": "mobile",
+   "e164": "+353850123456",
+   "country_code": 353,
+   "description": "Ireland",
+   "country_name": "Ireland",
+   "carrier": "Meteor",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IL",
+   "source": "example",
+   "e164": "+97221234567",
+   "country_code": 972,
+   "description": "Jerusalem",
+   "country_name": "Israel",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IL",
+   "source": "mobile",
+   "e164": "+972502345678",
+   "country_code": 972,
+   "description": "Israel",
+   "country_name": "Israel",
+   "carrier": "Pelephone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IM",
+   "source": "example",
+   "e164": "+441624756789",
+   "country_code": 44,
+   "description": "Isle of Man",
+   "country_name": "Isle Of Man",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IM",
+   "source": "mobile",
+   "e164": "+447924123456",
+   "country_code": 44,
+   "description": "",
+   "country_name": "",
+   "carrier": "Manx Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IN",
+   "source": "example",
+   "e164": "+917410410123",
+   "country_code": 91,
+   "description": "Alot, Madhya Pradesh",
+   "country_name": "India",
+   "carrier": "Airtel",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "IN",
+   "source": "mobile",
+   "e164": "+918123456789",
+   "country_code": 91,
+   "description": "India",
+   "country_name": "India",
+   "carrier": "Tata Docomo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IO",
+   "source": "example",
+   "e164": "+2463709100",
+   "country_code": 246,
+   "description": "British Indian Ocean Territory",
+   "country_name": "British Indian Ocean Territory",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IO",
+   "source": "mobile",
+   "e164": "+2463801234",
+   "country_code": 246,
+   "description": "British Indian Ocean Territory",
+   "country_name": "British Indian Ocean Territory",
+   "carrier": "Sure Ltd",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IQ",
+   "source": "example",
+   "e164": "+96412345678",
+   "country_code": 964,
+   "description": "Iraq",
+   "country_name": "Iraq",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IQ",
+   "source": "mobile",
+   "e164": "+9647912345678",
+   "country_code": 964,
+   "description": "Iraq",
+   "country_name": "Iraq",
+   "carrier": "Zain",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IR",
+   "source": "example",
+   "e164": "+982123456789",
+   "country_code": 98,
+   "description": "Tehran province",
+   "country_name": "Iran",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IR",
+   "source": "mobile",
+   "e164": "+989123456789",
+   "country_code": 98,
+   "description": "Iran",
+   "country_name": "Iran",
+   "carrier": "IR-MCI",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IS",
+   "source": "example",
+   "e164": "+3544101234",
+   "country_code": 354,
+   "description": "Iceland",
+   "country_name": "Iceland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IS",
+   "source": "mobile",
+   "e164": "+3546111234",
+   "country_code": 354,
+   "description": "Iceland",
+   "country_name": "Iceland",
+   "carrier": "Vodafone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "IT",
+   "source": "example",
+   "e164": "+390212345678",
+   "country_code": 39,
+   "description": "Milan",
+   "country_name": "Italy",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "IT",
+   "source": "mobile",
+   "e164": "+393123456789",
+   "country_code": 39,
+   "description": "",
+   "country_name": "",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "JE",
+   "source": "example",
+   "e164": "+441534456789",
+   "country_code": 44,
+   "description": "Jersey",
+   "country_name": "Jersey",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "JE",
+   "source": "mobile",
+   "e164": "+447797712345",
+   "country_code": 44,
+   "description": "Jersey",
+   "country_name": "Jersey",
+   "carrier": "JT",
+   "type": "MOBILE"
+  },
+  {
+   "region": "JM",
+   "source": "example",
+   "e164": "+18765230123",
+   "country_code": 1,
+   "description": "Jamaica",
+   "country_name": "Jamaica",
+   "carrier": "Digicel",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "JM",
+   "source": "mobile",
+   "e164": "+18762101234",
+   "country_code": 1,
+   "description": "Jamaica",
+   "country_name": "Jamaica",
+   "carrier": "Cable & Wireless",
+   "type": "MOBILE"
+  },
+  {
+   "region": "JO",
+   "source": "example",
+   "e164": "+96262001234",
+   "country_code": 962,
+   "description": "Amman",
+   "country_name": "Jordan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "JO",
+   "source": "mobile",
+   "e164": "+962790123456",
+   "country_code": 962,
+   "description": "Jordan",
+   "country_name": "Jordan",
+   "carrier": "Zain JO",
+   "type": "MOBILE"
+  },
+  {
+   "region": "JP",
+   "source": "example",
+   "e164": "+81312345678",
+   "country_code": 81,
+   "description": "Tokyo",
+   "country_name": "Japan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "JP",
+   "source": "mobile",
+   "e164": "+819012345678",
+   "country_code": 81,
+   "description": "Japan",
+   "country_name": "Japan",
+   "carrier": "KDDI",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KE",
+   "source": "example",
+   "e164": "+254202012345",
+   "country_code": 254,
+   "description": "Nairobi",
+   "country_name": "Kenya",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KE",
+   "source": "mobile",
+   "e164": "+254712123456",
+   "country_code": 254,
+   "description": "Kenya",
+   "country_name": "Kenya",
+   "carrier": "Safaricom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KG",
+   "source": "example",
+   "e164": "+996312123456",
+   "country_code": 996,
+   "description": "Bishkek, Chuy region",
+   "country_name": "Kyrgyzstan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KG",
+   "source": "mobile",
+   "e164": "+996700123456",
+   "country_code": 996,
+   "description": "Kyrgyzstan",
+   "country_name": "Kyrgyzstan",
+   "carrier": "Nur Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KH",
+   "source": "example",
+   "e164": "+85523756789",
+   "country_code": 855,
+   "description": "Cambodia",
+   "country_name": "Cambodia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KH",
+   "source": "mobile",
+   "e164": "+85591234567",
+   "country_code": 855,
+   "description": "Cambodia",
+   "country_name": "Cambodia",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KI",
+   "source": "example",
+   "e164": "+68631234",
+   "country_code": 686,
+   "description": "North Tarawa",
+   "country_name": "Kiribati",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KI",
+   "source": "mobile",
+   "e164": "+68672001234",
+   "country_code": 686,
+   "description": "Kiribati",
+   "country_name": "Kiribati",
+   "carrier": "ATHKL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KM",
+   "source": "example",
+   "e164": "+2697712345",
+   "country_code": 269,
+   "description": "Mutsamudu",
+   "country_name": "Comoros",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KM",
+   "source": "mobile",
+   "e164": "+2693212345",
+   "country_code": 269,
+   "description": "Comoros",
+   "country_name": "Comoros",
+   "carrier": "Comores Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KN",
+   "source": "example",
+   "e164": "+18692361234",
+   "country_code": 1,
+   "description": "Saint Kitts And Nevis",
+   "country_name": "Saint Kitts And Nevis",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KN",
+   "source": "mobile",
+   "e164": "+18697652917",
+   "country_code": 1,
+   "description": "Saint Kitts And Nevis",
+   "country_name": "Saint Kitts And Nevis",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KP",
+   "source": "example",
+   "e164": "+85021234567",
+   "country_code": 850,
+   "description": "Pyongyang",
+   "country_name": "North Korea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KP",
+   "source": "mobile",
+   "e164": "+8501921234567",
+   "country_code": 850,
+   "description": "North Korea",
+   "country_name": "North Korea",
+   "carrier": "Koryolink",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KR",
+   "source": "example",
+   "e164": "+8222123456",
+   "country_code": 82,
+   "description": "Seoul",
+   "country_name": "South Korea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KR",
+   "source": "mobile",
+   "e164": "+821020000000",
+   "country_code": 82,
+   "description": "South Korea",
+   "country_name": "South Korea",
+   "carrier": "SKTellink",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KW",
+   "source": "example",
+   "e164": "+96522345678",
+   "country_code": 965,
+   "description": "Kuwait",
+   "country_name": "Kuwait",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KW",
+   "source": "mobile",
+   "e164": "+96550012345",
+   "country_code": 965,
+   "description": "Kuwait",
+   "country_name": "Kuwait",
+   "carrier": "VIVA",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KY",
+   "source": "example",
+   "e164": "+13452221234",
+   "country_code": 1,
+   "description": "Cayman Islands",
+   "country_name": "Cayman Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KY",
+   "source": "mobile",
+   "e164": "+13453231234",
+   "country_code": 1,
+   "description": "Cayman Islands",
+   "country_name": "Cayman Islands",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "KZ",
+   "source": "example",
+   "e164": "+77123456789",
+   "country_code": 7,
+   "description": "Indernborski",
+   "country_name": "Kazakhstan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "KZ",
+   "source": "mobile",
+   "e164": "+77710009998",
+   "country_code": 7,
+   "description": "Kazakhstan",
+   "country_name": "Kazakhstan",
+   "carrier": "Beeline",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LA",
+   "source": "example",
+   "e164": "+85621212862",
+   "country_code": 856,
+   "description": "Laos",
+   "country_name": "Laos",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LA",
+   "source": "mobile",
+   "e164": "+8562023123456",
+   "country_code": 856,
+   "description": "Laos",
+   "country_name": "Laos",
+   "carrier": "ETL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LB",
+   "source": "example",
+   "e164": "+9611123456",
+   "country_code": 961,
+   "description": "Lebanon",
+   "country_name": "Lebanon",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LB",
+   "source": "mobile",
+   "e164": "+96171123456",
+   "country_code": 961,
+   "description": "Lebanon",
+   "country_name": "Lebanon",
+   "carrier": "Touch",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LC",
+   "source": "example",
+   "e164": "+17584305678",
+   "country_code": 1,
+   "description": "Saint Lucia",
+   "country_name": "Saint Lucia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LC",
+   "source": "mobile",
+   "e164": "+17582845678",
+   "country_code": 1,
+   "description": "Saint Lucia",
+   "country_name": "Saint Lucia",
+   "carrier": "Cable & Wireless",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LI",
+   "source": "example",
+   "e164": "+4232345678",
+   "country_code": 423,
+   "description": "Liechtenstein",
+   "country_name": "Liechtenstein",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LI",
+   "source": "mobile",
+   "e164": "+423660234567",
+   "country_code": 423,
+   "description": "Liechtenstein",
+   "country_name": "Liechtenstein",
+   "carrier": "Telecom Liechtenstein",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LK",
+   "source": "example",
+   "e164": "+94112345678",
+   "country_code": 94,
+   "description": "Colombo",
+   "country_name": "Sri Lanka",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LK",
+   "source": "mobile",
+   "e164": "+94712345678",
+   "country_code": 94,
+   "description": "Sri Lanka",
+   "country_name": "Sri Lanka",
+   "carrier": "Mobitel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LR",
+   "source": "example",
+   "e164": "+23121234567",
+   "country_code": 231,
+   "description": "Liberia",
+   "country_name": "Liberia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LR",
+   "source": "mobile",
+   "e164": "+231770123456",
+   "country_code": 231,
+   "description": "Liberia",
+   "country_name": "Liberia",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LS",
+   "source": "example",
+   "e164": "+26622123456",
+   "country_code": 266,
+   "description": "Maseru",
+   "country_name": "Lesotho",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LS",
+   "source": "mobile",
+   "e164": "+26650123456",
+   "country_code": 266,
+   "description": "Lesotho",
+   "country_name": "Lesotho",
+   "carrier": "Vodacom Lesotho (Pty) Ltd",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LT",
+   "source": "example",
+   "e164": "+37031234567",
+   "country_code": 370,
+   "description": "Lithuania",
+   "country_name": "Lithuania",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LT",
+   "source": "mobile",
+   "e164": "+37061234567",
+   "country_code": 370,
+   "description": "Lithuania",
+   "country_name": "Lithuania",
+   "carrier": "Telia",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LU",
+   "source": "example",
+   "e164": "+35227123456",
+   "country_code": 352,
+   "description": "Luxembourg",
+   "country_name": "Luxembourg",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LU",
+   "source": "mobile",
+   "e164": "+352628123456",
+   "country_code": 352,
+   "description": "Luxembourg",
+   "country_name": "Luxembourg",
+   "carrier": "POST",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LV",
+   "source": "example",
+   "e164": "+37163123456",
+   "country_code": 371,
+   "description": "Tukums",
+   "country_name": "Latvia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LV",
+   "source": "mobile",
+   "e164": "+37121234567",
+   "country_code": 371,
+   "description": "Latvia",
+   "country_name": "Latvia",
+   "carrier": "Bite Latvia",
+   "type": "MOBILE"
+  },
+  {
+   "region": "LY",
+   "source": "example",
+   "e164": "+218212345678",
+   "country_code": 218,
+   "description": "Tripoli",
+   "country_name": "Libya",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "LY",
+   "source": "mobile",
+   "e164": "+218912345678",
+   "country_code": 218,
+   "description": "Libya",
+   "country_name": "Libya",
+   "carrier": "Al-Madar",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MA",
+   "source": "example",
+   "e164": "+212520123456",
+   "country_code": 212,
+   "description": "Casablanca",
+   "country_name": "Morocco",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MA",
+   "source": "mobile",
+   "e164": "+212650123456",
+   "country_code": 212,
+   "description": "",
+   "country_name": "",
+   "carrier": "Maroc Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MC",
+   "source": "example",
+   "e164": "+37799123456",
+   "country_code": 377,
+   "description": "Monaco",
+   "country_name": "Monaco",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MC",
+   "source": "mobile",
+   "e164": "+377612345678",
+   "country_code": 377,
+   "description": "Monaco",
+   "country_name": "Monaco",
+   "carrier": "Monaco Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MD",
+   "source": "example",
+   "e164": "+37322212345",
+   "country_code": 373,
+   "description": "Chisinau",
+   "country_name": "Moldova",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MD",
+   "source": "mobile",
+   "e164": "+37362112345",
+   "country_code": 373,
+   "description": "Moldova",
+   "country_name": "Moldova",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ME",
+   "source": "example",
+   "e164": "+38230234567",
+   "country_code": 382,
+   "description": "Bar/Ulcinj",
+   "country_name": "Montenegro",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ME",
+   "source": "mobile",
+   "e164": "+38260123456",
+   "country_code": 382,
+   "description": "Montenegro",
+   "country_name": "Montenegro",
+   "carrier": "m:tel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MF",
+   "source": "example",
+   "e164": "+590590271234",
+   "country_code": 590,
+   "description": "",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MF",
+   "source": "mobile",
+   "e164": "+590690001234",
+   "country_code": 590,
+   "description": "",
+   "country_name": "",
+   "carrier": "SFR/Rife",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MG",
+   "source": "example",
+   "e164": "+261202123456",
+   "country_code": 261,
+   "description": "Madagascar",
+   "country_name": "Madagascar",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MG",
+   "source": "mobile",
+   "e164": "+261321234567",
+   "country_code": 261,
+   "description": "Madagascar",
+   "country_name": "Madagascar",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MH",
+   "source": "example",
+   "e164": "+6922471234",
+   "country_code": 692,
+   "description": "Marshall Islands",
+   "country_name": "Marshall Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MH",
+   "source": "mobile",
+   "e164": "+6922351234",
+   "country_code": 692,
+   "description": "Marshall Islands",
+   "country_name": "Marshall Islands",
+   "carrier": "National Telecommunications Authority",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MK",
+   "source": "example",
+   "e164": "+38922012345",
+   "country_code": 389,
+   "description": "Skopje",
+   "country_name": "Macedonia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MK",
+   "source": "mobile",
+   "e164": "+38972345678",
+   "country_code": 389,
+   "description": "Macedonia",
+   "country_name": "Macedonia",
+   "carrier": "T-Mobile",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ML",
+   "source": "example",
+   "e164": "+22320212345",
+   "country_code": 223,
+   "description": "Bamako",
+   "country_name": "Mali",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ML",
+   "source": "mobile",
+   "e164": "+22365012345",
+   "country_code": 223,
+   "description": "Mali",
+   "country_name": "Mali",
+   "carrier": "Sotelma",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MM",
+   "source": "example",
+   "e164": "+951234567",
+   "country_code": 95,
+   "description": "Myanmar",
+   "country_name": "Myanmar",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MM",
+   "source": "mobile",
+   "e164": "+9592123456",
+   "country_code": 95,
+   "description": "Myanmar",
+   "country_name": "Myanmar",
+   "carrier": "MPT",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MN",
+   "source": "example",
+   "e164": "+97653123456",
+   "country_code": 976,
+   "description": "Mongolia",
+   "country_name": "Mongolia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MN",
+   "source": "mobile",
+   "e164": "+97688123456",
+   "country_code": 976,
+   "description": "Mongolia",
+   "country_name": "Mongolia",
+   "carrier": "Unitel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MO",
+   "source": "example",
+   "e164": "+85328212345",
+   "country_code": 853,
+   "description": "Macao",
+   "country_name": "Macao",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MO",
+   "source": "mobile",
+   "e164": "+85366123456",
+   "country_code": 853,
+   "description": "Macao",
+   "country_name": "Macao",
+   "carrier": "CTM",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MP",
+   "source": "example",
+   "e164": "+16702345678",
+   "country_code": 1,
+   "description": "Northern Mariana Islands",
+   "country_name": "Northern Mariana Islands",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "MQ",
+   "source": "example",
+   "e164": "+596596301234",
+   "country_code": 596,
+   "description": "Martinique",
+   "country_name": "Martinique",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MQ",
+   "source": "mobile",
+   "e164": "+596696201234",
+   "country_code": 596,
+   "description": "Martinique",
+   "country_name": "Martinique",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MR",
+   "source": "example",
+   "e164": "+22235123456",
+   "country_code": 222,
+   "description": "Mauritania",
+   "country_name": "Mauritania",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MR",
+   "source": "mobile",
+   "e164": "+22222123456",
+   "country_code": 222,
+   "description": "Mauritania",
+   "country_name": "Mauritania",
+   "carrier": "Chinguitel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MS",
+   "source": "example",
+   "e164": "+16644912345",
+   "country_code": 1,
+   "description": "Montserrat",
+   "country_name": "Montserrat",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MS",
+   "source": "mobile",
+   "e164": "+16644923456",
+   "country_code": 1,
+   "description": "Montserrat",
+   "country_name": "Montserrat",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MT",
+   "source": "example",
+   "e164": "+35621001234",
+   "country_code": 356,
+   "description": "Malta",
+   "country_name": "Malta",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MT",
+   "source": "mobile",
+   "e164": "+35696961234",
+   "country_code": 356,
+   "description": "Malta",
+   "country_name": "Malta",
+   "carrier": "epic",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MU",
+   "source": "example",
+   "e164": "+23054480123",
+   "country_code": 230,
+   "description": "Mauritius",
+   "country_name": "Mauritius",
+   "carrier": "Emtel",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "MU",
+   "source": "mobile",
+   "e164": "+23052512345",
+   "country_code": 230,
+   "description": "Mauritius",
+   "country_name": "Mauritius",
+   "carrier": "Cellplus",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MV",
+   "source": "example",
+   "e164": "+9606701234",
+   "country_code": 960,
+   "description": "Vaavu",
+   "country_name": "Maldives",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MV",
+   "source": "mobile",
+   "e164": "+9607712345",
+   "country_code": 960,
+   "description": "Maldives",
+   "country_name": "Maldives",
+   "carrier": "Dhiraagu",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MW",
+   "source": "example",
+   "e164": "+2651234567",
+   "country_code": 265,
+   "description": "Malawi",
+   "country_name": "Malawi",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MW",
+   "source": "mobile",
+   "e164": "+265991234567",
+   "country_code": 265,
+   "description": "Malawi",
+   "country_name": "Malawi",
+   "carrier": "Airtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MX",
+   "source": "example",
+   "e164": "+522001234567",
+   "country_code": 52,
+   "description": "Mexico",
+   "country_name": "Mexico",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MX",
+   "source": "mobile",
+   "e164": "+522221234567",
+   "country_code": 52,
+   "description": "Puebla",
+   "country_name": "Mexico",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "MY",
+   "source": "example",
+   "e164": "+60323856789",
+   "country_code": 60,
+   "description": "Kuala Lumpur",
+   "country_name": "Malaysia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MY",
+   "source": "mobile",
+   "e164": "+60123456789",
+   "country_code": 60,
+   "description": "Malaysia",
+   "country_name": "Malaysia",
+   "carrier": "Maxis",
+   "type": "MOBILE"
+  },
+  {
+   "region": "MZ",
+   "source": "example",
+   "e164": "+25821123456",
+   "country_code": 258,
+   "description": "Maputo",
+   "country_name": "Mozambique",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "MZ",
+   "source": "mobile",
+   "e164": "+258821234567",
+   "country_code": 258,
+   "description": "Mozambique",
+   "country_name": "Mozambique",
+   "carrier": "mcel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NA",
+   "source": "example",
+   "e164": "+26461221234",
+   "country_code": 264,
+   "description": "Windhoek",
+   "country_name": "Namibia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NA",
+   "source": "mobile",
+   "e164": "+264811234567",
+   "country_code": 264,
+   "description": "Namibia",
+   "country_name": "Namibia",
+   "carrier": "MTC",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NC",
+   "source": "example",
+   "e164": "+687201234",
+   "country_code": 687,
+   "description": "New Caledonia",
+   "country_name": "New Caledonia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NC",
+   "source": "mobile",
+   "e164": "+687751234",
+   "country_code": 687,
+   "description": "New Caledonia",
+   "country_name": "New Caledonia",
+   "carrier": "OPT-NC",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NE",
+   "source": "example",
+   "e164": "+22720201234",
+   "country_code": 227,
+   "description": "Niamey",
+   "country_name": "Niger",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NE",
+   "source": "mobile",
+   "e164": "+22793123456",
+   "country_code": 227,
+   "description": "Niger",
+   "country_name": "Niger",
+   "carrier": "Niger Telecoms",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NF",
+   "source": "example",
+   "e164": "+672106609",
+   "country_code": 672,
+   "description": "Davis",
+   "country_name": "Norfolk Island",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NF",
+   "source": "mobile",
+   "e164": "+672381234",
+   "country_code": 672,
+   "description": "Norfolk Island",
+   "country_name": "Norfolk Island",
+   "carrier": "Norfolk Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NG",
+   "source": "example",
+   "e164": "+2342033123456",
+   "country_code": 234,
+   "description": "New Bussa",
+   "country_name": "Nigeria",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NG",
+   "source": "mobile",
+   "e164": "+2348021234567",
+   "country_code": 234,
+   "description": "Nigeria",
+   "country_name": "Nigeria",
+   "carrier": "Airtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NI",
+   "source": "example",
+   "e164": "+50521234567",
+   "country_code": 505,
+   "description": "Nicaragua",
+   "country_name": "Nicaragua",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NI",
+   "source": "mobile",
+   "e164": "+50581234567",
+   "country_code": 505,
+   "description": "Nicaragua",
+   "country_name": "Nicaragua",
+   "carrier": "Movistar",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NL",
+   "source": "example",
+   "e164": "+31101234567",
+   "country_code": 31,
+   "description": "Rotterdam",
+   "country_name": "Netherlands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NL",
+   "source": "mobile",
+   "e164": "+31612345678",
+   "country_code": 31,
+   "description": "Netherlands",
+   "country_name": "Netherlands",
+   "carrier": "KPN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NO",
+   "source": "example",
+   "e164": "+4721234567",
+   "country_code": 47,
+   "description": "Oslo",
+   "country_name": "Norway",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NO",
+   "source": "mobile",
+   "e164": "+4740612345",
+   "country_code": 47,
+   "description": "",
+   "country_name": "",
+   "carrier": "telia",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NP",
+   "source": "example",
+   "e164": "+97714567890",
+   "country_code": 977,
+   "description": "Nepal",
+   "country_name": "Nepal",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NP",
+   "source": "mobile",
+   "e164": "+9779841234567",
+   "country_code": 977,
+   "description": "Nepal",
+   "country_name": "Nepal",
+   "carrier": "Nepal Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NR",
+   "source": "example",
+   "e164": "+6744441234",
+   "country_code": 674,
+   "description": "Nauru",
+   "country_name": "Nauru",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NR",
+   "source": "mobile",
+   "e164": "+6745551234",
+   "country_code": 674,
+   "description": "Nauru",
+   "country_name": "Nauru",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NU",
+   "source": "example",
+   "e164": "+6837012",
+   "country_code": 683,
+   "description": "Niue",
+   "country_name": "Niue",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NU",
+   "source": "mobile",
+   "e164": "+6838884012",
+   "country_code": 683,
+   "description": "Niue",
+   "country_name": "Niue",
+   "carrier": "Telecom Niue",
+   "type": "MOBILE"
+  },
+  {
+   "region": "NZ",
+   "source": "example",
+   "e164": "+6432345678",
+   "country_code": 64,
+   "description": "Riverton",
+   "country_name": "New Zealand",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "NZ",
+   "source": "mobile",
+   "e164": "+64211234567",
+   "country_code": 64,
+   "description": "New Zealand",
+   "country_name": "New Zealand",
+   "carrier": "Vodafone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "OM",
+   "source": "example",
+   "e164": "+96823123456",
+   "country_code": 968,
+   "description": "Dhofar & Al Wusta",
+   "country_name": "Oman",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "OM",
+   "source": "mobile",
+   "e164": "+96892123456",
+   "country_code": 968,
+   "description": "Oman",
+   "country_name": "Oman",
+   "carrier": "Omantel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PA",
+   "source": "example",
+   "e164": "+5072001234",
+   "country_code": 507,
+   "description": "Panama",
+   "country_name": "Panama",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PA",
+   "source": "mobile",
+   "e164": "+50761234567",
+   "country_code": 507,
+   "description": "Panama",
+   "country_name": "Panama",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PE",
+   "source": "example",
+   "e164": "+5111234567",
+   "country_code": 51,
+   "description": "Lima/Callao",
+   "country_name": "Peru",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PE",
+   "source": "mobile",
+   "e164": "+51912345678",
+   "country_code": 51,
+   "description": "Peru",
+   "country_name": "Peru",
+   "carrier": "Entel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PF",
+   "source": "example",
+   "e164": "+68940412345",
+   "country_code": 689,
+   "description": "\u00celes du Vent(IDV)",
+   "country_name": "French Polynesia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PF",
+   "source": "mobile",
+   "e164": "+68987123456",
+   "country_code": 689,
+   "description": "French Polynesia",
+   "country_name": "French Polynesia",
+   "carrier": "Vini",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PG",
+   "source": "example",
+   "e164": "+6753123456",
+   "country_code": 675,
+   "description": "NCD",
+   "country_name": "Papua New Guinea",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PG",
+   "source": "mobile",
+   "e164": "+67570123456",
+   "country_code": 675,
+   "description": "Papua New Guinea",
+   "country_name": "Papua New Guinea",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PH",
+   "source": "example",
+   "e164": "+63232345678",
+   "country_code": 63,
+   "description": "Philippines",
+   "country_name": "Philippines",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PH",
+   "source": "mobile",
+   "e164": "+639051234567",
+   "country_code": 63,
+   "description": "Philippines",
+   "country_name": "Philippines",
+   "carrier": "Globe",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PK",
+   "source": "example",
+   "e164": "+922123456789",
+   "country_code": 92,
+   "description": "Karachi",
+   "country_name": "Pakistan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PK",
+   "source": "mobile",
+   "e164": "+923012345678",
+   "country_code": 92,
+   "description": "Pakistan",
+   "country_name": "Pakistan",
+   "carrier": "Jazz",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PL",
+   "source": "example",
+   "e164": "+48123456789",
+   "country_code": 48,
+   "description": "Krak\u00f3w",
+   "country_name": "Poland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PL",
+   "source": "mobile",
+   "e164": "+48512345678",
+   "country_code": 48,
+   "description": "Poland",
+   "country_name": "Poland",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PM",
+   "source": "example",
+   "e164": "+508430123",
+   "country_code": 508,
+   "description": "Saint Pierre And Miquelon",
+   "country_name": "Saint Pierre And Miquelon",
+   "carrier": "Diabolocom",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "PM",
+   "source": "mobile",
+   "e164": "+508551234",
+   "country_code": 508,
+   "description": "Saint Pierre And Miquelon",
+   "country_name": "Saint Pierre And Miquelon",
+   "carrier": "SPM Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PR",
+   "source": "example",
+   "e164": "+17872345678",
+   "country_code": 1,
+   "description": "Puerto Rico",
+   "country_name": "Puerto Rico",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "PS",
+   "source": "example",
+   "e164": "+97022234567",
+   "country_code": 970,
+   "description": "Jericho/Hebron",
+   "country_name": "Palestine",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PS",
+   "source": "mobile",
+   "e164": "+970599123456",
+   "country_code": 970,
+   "description": "Palestine",
+   "country_name": "Palestine",
+   "carrier": "Palestine Cellular Communications",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PT",
+   "source": "example",
+   "e164": "+351212345678",
+   "country_code": 351,
+   "description": "Lisbon",
+   "country_name": "Portugal",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PT",
+   "source": "mobile",
+   "e164": "+351912345678",
+   "country_code": 351,
+   "description": "Portugal",
+   "country_name": "Portugal",
+   "carrier": "Vodafone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PW",
+   "source": "example",
+   "e164": "+6802771234",
+   "country_code": 680,
+   "description": "Angaur State",
+   "country_name": "Palau",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PW",
+   "source": "mobile",
+   "e164": "+6806201234",
+   "country_code": 680,
+   "description": "Palau",
+   "country_name": "Palau",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "PY",
+   "source": "example",
+   "e164": "+595212345678",
+   "country_code": 595,
+   "description": "Fernando De La Mora, Lambare, Limpio, Luque, Mariano Roque Alonso, San Antonio, Valle Pucu and Villa Elisa",
+   "country_name": "Paraguay",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "PY",
+   "source": "mobile",
+   "e164": "+595961456789",
+   "country_code": 595,
+   "description": "Paraguay",
+   "country_name": "Paraguay",
+   "carrier": "VOX",
+   "type": "MOBILE"
+  },
+  {
+   "region": "QA",
+   "source": "example",
+   "e164": "+97444123456",
+   "country_code": 974,
+   "description": "Qatar",
+   "country_name": "Qatar",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "QA",
+   "source": "mobile",
+   "e164": "+97433123456",
+   "country_code": 974,
+   "description": "Qatar",
+   "country_name": "Qatar",
+   "carrier": "ooredoo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "RE",
+   "source": "example",
+   "e164": "+262262161234",
+   "country_code": 262,
+   "description": "Reunion",
+   "country_name": "Reunion",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "RE",
+   "source": "mobile",
+   "e164": "+262692123456",
+   "country_code": 262,
+   "description": "Reunion",
+   "country_name": "Reunion",
+   "carrier": "SFR",
+   "type": "MOBILE"
+  },
+  {
+   "region": "RO",
+   "source": "example",
+   "e164": "+40211234567",
+   "country_code": 40,
+   "description": "Bucharest and Ilfov County",
+   "country_name": "Romania",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "RO",
+   "source": "mobile",
+   "e164": "+40712034567",
+   "country_code": 40,
+   "description": "Romania",
+   "country_name": "Romania",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "RS",
+   "source": "example",
+   "e164": "+38110234567",
+   "country_code": 381,
+   "description": "Pirot",
+   "country_name": "Serbia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "RS",
+   "source": "mobile",
+   "e164": "+381601234567",
+   "country_code": 381,
+   "description": "Serbia",
+   "country_name": "Serbia",
+   "carrier": "A1",
+   "type": "MOBILE"
+  },
+  {
+   "region": "RU",
+   "source": "example",
+   "e164": "+73011234567",
+   "country_code": 7,
+   "description": "Republic of Buryatia",
+   "country_name": "Russia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "RU",
+   "source": "mobile",
+   "e164": "+79123456789",
+   "country_code": 7,
+   "description": "Russia",
+   "country_name": "Russia",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "RW",
+   "source": "example",
+   "e164": "+250250123456",
+   "country_code": 250,
+   "description": "Rwanda",
+   "country_name": "Rwanda",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "RW",
+   "source": "mobile",
+   "e164": "+250720123456",
+   "country_code": 250,
+   "description": "Rwanda",
+   "country_name": "Rwanda",
+   "carrier": "Airtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SA",
+   "source": "example",
+   "e164": "+966112345678",
+   "country_code": 966,
+   "description": "Riyadh/Kharj",
+   "country_name": "Saudi Arabia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SA",
+   "source": "mobile",
+   "e164": "+966512345678",
+   "country_code": 966,
+   "description": "Saudi Arabia",
+   "country_name": "Saudi Arabia",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SB",
+   "source": "example",
+   "e164": "+67740123",
+   "country_code": 677,
+   "description": "Solomon Islands",
+   "country_name": "Solomon Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SB",
+   "source": "mobile",
+   "e164": "+6777421234",
+   "country_code": 677,
+   "description": "Solomon Islands",
+   "country_name": "Solomon Islands",
+   "carrier": "Solomon Telekom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SC",
+   "source": "example",
+   "e164": "+2484217123",
+   "country_code": 248,
+   "description": "Seychelles",
+   "country_name": "Seychelles",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SC",
+   "source": "mobile",
+   "e164": "+2482510123",
+   "country_code": 248,
+   "description": "Seychelles",
+   "country_name": "Seychelles",
+   "carrier": "CWS",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SD",
+   "source": "example",
+   "e164": "+249153123456",
+   "country_code": 249,
+   "description": "Khartoum",
+   "country_name": "Sudan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SD",
+   "source": "mobile",
+   "e164": "+249911231234",
+   "country_code": 249,
+   "description": "Sudan",
+   "country_name": "Sudan",
+   "carrier": "Zain",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SE",
+   "source": "example",
+   "e164": "+468123456",
+   "country_code": 46,
+   "description": "Stockholm",
+   "country_name": "Sweden",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SE",
+   "source": "mobile",
+   "e164": "+46701234567",
+   "country_code": 46,
+   "description": "Sweden",
+   "country_name": "Sweden",
+   "carrier": "SPINBOX AB",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SG",
+   "source": "example",
+   "e164": "+6561234567",
+   "country_code": 65,
+   "description": "Singapore",
+   "country_name": "Singapore",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SG",
+   "source": "mobile",
+   "e164": "+6581234567",
+   "country_code": 65,
+   "description": "Singapore",
+   "country_name": "Singapore",
+   "carrier": "SingTel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SH",
+   "source": "example",
+   "e164": "+29022158",
+   "country_code": 290,
+   "description": "Jamestown",
+   "country_name": "Saint Helena",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SH",
+   "source": "mobile",
+   "e164": "+29051234",
+   "country_code": 290,
+   "description": "Saint Helena",
+   "country_name": "Saint Helena",
+   "carrier": "Sure South Atlantic Ltd",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SI",
+   "source": "example",
+   "e164": "+38612345678",
+   "country_code": 386,
+   "description": "Ljubljana",
+   "country_name": "Slovenia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SI",
+   "source": "mobile",
+   "e164": "+38631234567",
+   "country_code": 386,
+   "description": "Slovenia",
+   "country_name": "Slovenia",
+   "carrier": "Telekom Slovenije",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SJ",
+   "source": "example",
+   "e164": "+4779123456",
+   "country_code": 47,
+   "description": "Svalbard & Jan Mayen",
+   "country_name": "Svalbard And Jan Mayen",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SJ",
+   "source": "mobile",
+   "e164": "+4741234567",
+   "country_code": 47,
+   "description": "",
+   "country_name": "",
+   "carrier": "telia",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SK",
+   "source": "example",
+   "e164": "+421221234567",
+   "country_code": 421,
+   "description": "Bratislava",
+   "country_name": "Slovakia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SK",
+   "source": "mobile",
+   "e164": "+421912123456",
+   "country_code": 421,
+   "description": "Slovakia",
+   "country_name": "Slovakia",
+   "carrier": "T-Mobile (Slovak Telekom)",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SL",
+   "source": "example",
+   "e164": "+23222221234",
+   "country_code": 232,
+   "description": "Freetown",
+   "country_name": "Sierra Leone",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SL",
+   "source": "mobile",
+   "e164": "+23225123456",
+   "country_code": 232,
+   "description": "Sierra Leone",
+   "country_name": "Sierra Leone",
+   "carrier": "Sierratel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SM",
+   "source": "example",
+   "e164": "+3780549886377",
+   "country_code": 378,
+   "description": "San Marino",
+   "country_name": "San Marino",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SM",
+   "source": "mobile",
+   "e164": "+37866661212",
+   "country_code": 378,
+   "description": "San Marino",
+   "country_name": "San Marino",
+   "carrier": "Telecom Italia San Marino",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SN",
+   "source": "example",
+   "e164": "+221301012345",
+   "country_code": 221,
+   "description": "Senegal",
+   "country_name": "Senegal",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SN",
+   "source": "mobile",
+   "e164": "+221701234567",
+   "country_code": 221,
+   "description": "Senegal",
+   "country_name": "Senegal",
+   "carrier": "Expresso",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SO",
+   "source": "example",
+   "e164": "+2524012345",
+   "country_code": 252,
+   "description": "Garowe",
+   "country_name": "Somalia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SO",
+   "source": "mobile",
+   "e164": "+25271123456",
+   "country_code": 252,
+   "description": "Somalia",
+   "country_name": "Somalia",
+   "carrier": "Amtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SR",
+   "source": "example",
+   "e164": "+597211234",
+   "country_code": 597,
+   "description": "Suriname",
+   "country_name": "Suriname",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SR",
+   "source": "mobile",
+   "e164": "+5977412345",
+   "country_code": 597,
+   "description": "Suriname",
+   "country_name": "Suriname",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SS",
+   "source": "example",
+   "e164": "+211181234567",
+   "country_code": 211,
+   "description": "South Sudan",
+   "country_name": "South Sudan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SS",
+   "source": "mobile",
+   "e164": "+211977123456",
+   "country_code": 211,
+   "description": "South Sudan",
+   "country_name": "South Sudan",
+   "carrier": "Gemtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ST",
+   "source": "example",
+   "e164": "+2392221234",
+   "country_code": 239,
+   "description": "\u00c1gua Grande",
+   "country_name": "Sao Tome And Principe",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ST",
+   "source": "mobile",
+   "e164": "+2399812345",
+   "country_code": 239,
+   "description": "Sao Tome And Principe",
+   "country_name": "Sao Tome And Principe",
+   "carrier": "CSTmovel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SV",
+   "source": "example",
+   "e164": "+50321234567",
+   "country_code": 503,
+   "description": "El Salvador",
+   "country_name": "El Salvador",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SV",
+   "source": "mobile",
+   "e164": "+50370123456",
+   "country_code": 503,
+   "description": "El Salvador",
+   "country_name": "El Salvador",
+   "carrier": "Claro",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SX",
+   "source": "example",
+   "e164": "+17215425678",
+   "country_code": 1,
+   "description": "Sint Maarten (Dutch part)",
+   "country_name": "Sint Maarten (Dutch part)",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SX",
+   "source": "mobile",
+   "e164": "+17215205678",
+   "country_code": 1,
+   "description": "Sint Maarten (Dutch part)",
+   "country_name": "Sint Maarten (Dutch part)",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SY",
+   "source": "example",
+   "e164": "+963112345678",
+   "country_code": 963,
+   "description": "Damascus and rural areas",
+   "country_name": "Syria",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SY",
+   "source": "mobile",
+   "e164": "+963944567890",
+   "country_code": 963,
+   "description": "Syria",
+   "country_name": "Syria",
+   "carrier": "MTN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "SZ",
+   "source": "example",
+   "e164": "+26822171234",
+   "country_code": 268,
+   "description": "Hlathikulu, Shiselweni district",
+   "country_name": "Swaziland",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "SZ",
+   "source": "mobile",
+   "e164": "+26876123456",
+   "country_code": 268,
+   "description": "Swaziland",
+   "country_name": "Swaziland",
+   "carrier": "Swazi MTN",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TA",
+   "source": "example",
+   "e164": "+2908999",
+   "country_code": 290,
+   "description": "Tristan da Cunha",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TC",
+   "source": "example",
+   "e164": "+16497121234",
+   "country_code": 1,
+   "description": "Turks And Caicos Islands",
+   "country_name": "Turks And Caicos Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TC",
+   "source": "mobile",
+   "e164": "+16492311234",
+   "country_code": 1,
+   "description": "Turks And Caicos Islands",
+   "country_name": "Turks And Caicos Islands",
+   "carrier": "C&W",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TD",
+   "source": "example",
+   "e164": "+23522501234",
+   "country_code": 235,
+   "description": "Chad",
+   "country_name": "Chad",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TD",
+   "source": "mobile",
+   "e164": "+23563012345",
+   "country_code": 235,
+   "description": "Chad",
+   "country_name": "Chad",
+   "carrier": "Airtel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TG",
+   "source": "example",
+   "e164": "+22822212345",
+   "country_code": 228,
+   "description": "Lome",
+   "country_name": "Togo",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TG",
+   "source": "mobile",
+   "e164": "+22890112345",
+   "country_code": 228,
+   "description": "Togo",
+   "country_name": "Togo",
+   "carrier": "Togo Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TH",
+   "source": "example",
+   "e164": "+6621234567",
+   "country_code": 66,
+   "description": "Bangkok/Nonthaburi/Pathum Thani/Samut Prakan",
+   "country_name": "Thailand",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TH",
+   "source": "mobile",
+   "e164": "+66812345678",
+   "country_code": 66,
+   "description": "Thailand",
+   "country_name": "Thailand",
+   "carrier": "True Move",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TJ",
+   "source": "example",
+   "e164": "+992372123456",
+   "country_code": 992,
+   "description": "Dushanbe",
+   "country_name": "Tajikistan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TJ",
+   "source": "mobile",
+   "e164": "+992917123456",
+   "country_code": 992,
+   "description": "Tajikistan",
+   "country_name": "Tajikistan",
+   "carrier": "ZET-MOBILE",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TK",
+   "source": "example",
+   "e164": "+6903101",
+   "country_code": 690,
+   "description": "Fakaofo Atoll",
+   "country_name": "Tokelau",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TK",
+   "source": "mobile",
+   "e164": "+6907290",
+   "country_code": 690,
+   "description": "Tokelau",
+   "country_name": "Tokelau",
+   "carrier": "Teletok telecommunications",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TL",
+   "source": "example",
+   "e164": "+6702112345",
+   "country_code": 670,
+   "description": "Manufahi",
+   "country_name": "Timor-Leste",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TL",
+   "source": "mobile",
+   "e164": "+67077212345",
+   "country_code": 670,
+   "description": "Timor-Leste",
+   "country_name": "Timor-Leste",
+   "carrier": "Timor Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TM",
+   "source": "example",
+   "e164": "+99312345678",
+   "country_code": 993,
+   "description": "Ahal",
+   "country_name": "Turkmenistan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TM",
+   "source": "mobile",
+   "e164": "+99366123456",
+   "country_code": 993,
+   "description": "Turkmenistan",
+   "country_name": "Turkmenistan",
+   "carrier": "MTS (BARASH Communication)",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TN",
+   "source": "example",
+   "e164": "+21630010123",
+   "country_code": 216,
+   "description": "Tunisia",
+   "country_name": "Tunisia",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "TN",
+   "source": "mobile",
+   "e164": "+21620123456",
+   "country_code": 216,
+   "description": "Tunisia",
+   "country_name": "Tunisia",
+   "carrier": "Ooredoo",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TO",
+   "source": "example",
+   "e164": "+67620123",
+   "country_code": 676,
+   "description": "Nuku'alofa",
+   "country_name": "Tonga",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TO",
+   "source": "mobile",
+   "e164": "+6767715123",
+   "country_code": 676,
+   "description": "Tonga",
+   "country_name": "Tonga",
+   "carrier": "U-Call Tonga",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TR",
+   "source": "example",
+   "e164": "+902123456789",
+   "country_code": 90,
+   "description": "Istanbul (Europe)",
+   "country_name": "Turkey",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TR",
+   "source": "mobile",
+   "e164": "+905012345678",
+   "country_code": 90,
+   "description": "Turkey",
+   "country_name": "Turkey",
+   "carrier": "Turk Telekom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TT",
+   "source": "example",
+   "e164": "+18682211234",
+   "country_code": 1,
+   "description": "Trinidad and Tobago",
+   "country_name": "Trinidad and Tobago",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TT",
+   "source": "mobile",
+   "e164": "+18682911234",
+   "country_code": 1,
+   "description": "Trinidad and Tobago",
+   "country_name": "Trinidad and Tobago",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TV",
+   "source": "example",
+   "e164": "+68820123",
+   "country_code": 688,
+   "description": "Funafuti",
+   "country_name": "Tuvalu",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TV",
+   "source": "mobile",
+   "e164": "+688901234",
+   "country_code": 688,
+   "description": "Tuvalu",
+   "country_name": "Tuvalu",
+   "carrier": "Tuvalu Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TW",
+   "source": "example",
+   "e164": "+886221234567",
+   "country_code": 886,
+   "description": "Taipei",
+   "country_name": "Taiwan",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TW",
+   "source": "mobile",
+   "e164": "+886912345678",
+   "country_code": 886,
+   "description": "Taiwan",
+   "country_name": "Taiwan",
+   "carrier": "Chunghwa Telecom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "TZ",
+   "source": "example",
+   "e164": "+255222345678",
+   "country_code": 255,
+   "description": "Dar-Es-Salaam",
+   "country_name": "Tanzania",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "TZ",
+   "source": "mobile",
+   "e164": "+255621234567",
+   "country_code": 255,
+   "description": "Tanzania",
+   "country_name": "Tanzania",
+   "carrier": "Viettel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "UA",
+   "source": "example",
+   "e164": "+380311234567",
+   "country_code": 380,
+   "description": "Zakarpattia",
+   "country_name": "Ukraine",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "UA",
+   "source": "mobile",
+   "e164": "+380501234567",
+   "country_code": 380,
+   "description": "Ukraine",
+   "country_name": "Ukraine",
+   "carrier": "Vodafone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "UG",
+   "source": "example",
+   "e164": "+256312345678",
+   "country_code": 256,
+   "description": "Uganda",
+   "country_name": "Uganda",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "UG",
+   "source": "mobile",
+   "e164": "+256712345678",
+   "country_code": 256,
+   "description": "Uganda",
+   "country_name": "Uganda",
+   "carrier": "UTL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "US",
+   "source": "example",
+   "e164": "+12015550123",
+   "country_code": 1,
+   "description": "New Jersey",
+   "country_name": "United States",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "UY",
+   "source": "example",
+   "e164": "+59821231234",
+   "country_code": 598,
+   "description": "Montevideo",
+   "country_name": "Uruguay",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "UY",
+   "source": "mobile",
+   "e164": "+59894231234",
+   "country_code": 598,
+   "description": "Uruguay",
+   "country_name": "Uruguay",
+   "carrier": "Movistar",
+   "type": "MOBILE"
+  },
+  {
+   "region": "UZ",
+   "source": "example",
+   "e164": "+998669050123",
+   "country_code": 998,
+   "description": "Uzbekistan",
+   "country_name": "Uzbekistan",
+   "carrier": "MobiUZ",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "UZ",
+   "source": "mobile",
+   "e164": "+998912345678",
+   "country_code": 998,
+   "description": "Uzbekistan",
+   "country_name": "Uzbekistan",
+   "carrier": "Beeline",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VA",
+   "source": "example",
+   "e164": "+390669812345",
+   "country_code": 39,
+   "description": "Vatican City",
+   "country_name": "Vatican",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VA",
+   "source": "mobile",
+   "e164": "+393123456789",
+   "country_code": 39,
+   "description": "",
+   "country_name": "",
+   "carrier": "",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VC",
+   "source": "example",
+   "e164": "+17842661234",
+   "country_code": 1,
+   "description": "Saint Vincent And The Grenadines",
+   "country_name": "Saint Vincent And The Grenadines",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VC",
+   "source": "mobile",
+   "e164": "+17844301234",
+   "country_code": 1,
+   "description": "Saint Vincent And The Grenadines",
+   "country_name": "Saint Vincent And The Grenadines",
+   "carrier": "AT&T",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VE",
+   "source": "example",
+   "e164": "+582121234567",
+   "country_code": 58,
+   "description": "Caracas/Miranda/Vargas",
+   "country_name": "Venezuela",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VE",
+   "source": "mobile",
+   "e164": "+584121234567",
+   "country_code": 58,
+   "description": "Venezuela",
+   "country_name": "Venezuela",
+   "carrier": "Digitel GSM",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VG",
+   "source": "example",
+   "e164": "+12842291234",
+   "country_code": 1,
+   "description": "British Virgin Islands",
+   "country_name": "British Virgin Islands",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VG",
+   "source": "mobile",
+   "e164": "+12843001234",
+   "country_code": 1,
+   "description": "British Virgin Islands",
+   "country_name": "British Virgin Islands",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VI",
+   "source": "example",
+   "e164": "+13406421234",
+   "country_code": 1,
+   "description": "U.S. Virgin Islands",
+   "country_name": "U.S. Virgin Islands",
+   "carrier": "",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "VN",
+   "source": "example",
+   "e164": "+842101234567",
+   "country_code": 84,
+   "description": "Phu Tho province",
+   "country_name": "Vietnam",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VN",
+   "source": "mobile",
+   "e164": "+84912345678",
+   "country_code": 84,
+   "description": "Vietnam",
+   "country_name": "Vietnam",
+   "carrier": "Vinaphone",
+   "type": "MOBILE"
+  },
+  {
+   "region": "VU",
+   "source": "example",
+   "e164": "+67822123",
+   "country_code": 678,
+   "description": "Port Vila, Shefa",
+   "country_name": "Vanuatu",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "VU",
+   "source": "mobile",
+   "e164": "+6785912345",
+   "country_code": 678,
+   "description": "Vanuatu",
+   "country_name": "Vanuatu",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "WF",
+   "source": "example",
+   "e164": "+681721234",
+   "country_code": 681,
+   "description": "Wallis And Futuna",
+   "country_name": "Wallis And Futuna",
+   "carrier": "Service des Postes et T\u00e9l\u00e9communications",
+   "type": "FIXED_LINE_OR_MOBILE"
+  },
+  {
+   "region": "WF",
+   "source": "mobile",
+   "e164": "+681821234",
+   "country_code": 681,
+   "description": "Wallis And Futuna",
+   "country_name": "Wallis And Futuna",
+   "carrier": "Service des Postes et T\u00e9l\u00e9communications",
+   "type": "MOBILE"
+  },
+  {
+   "region": "WS",
+   "source": "example",
+   "e164": "+68522123",
+   "country_code": 685,
+   "description": "Apia",
+   "country_name": "Samoa",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "WS",
+   "source": "mobile",
+   "e164": "+6857212345",
+   "country_code": 685,
+   "description": "Samoa",
+   "country_name": "Samoa",
+   "carrier": "Digicel",
+   "type": "MOBILE"
+  },
+  {
+   "region": "XK",
+   "source": "example",
+   "e164": "+38328012345",
+   "country_code": 383,
+   "description": "Gjilan",
+   "country_name": "",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "XK",
+   "source": "mobile",
+   "e164": "+38343201234",
+   "country_code": 383,
+   "description": "",
+   "country_name": "",
+   "carrier": "IPKO",
+   "type": "MOBILE"
+  },
+  {
+   "region": "YE",
+   "source": "example",
+   "e164": "+9671234567",
+   "country_code": 967,
+   "description": "Sanaa",
+   "country_name": "Yemen",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "YE",
+   "source": "mobile",
+   "e164": "+967712345678",
+   "country_code": 967,
+   "description": "Yemen",
+   "country_name": "Yemen",
+   "carrier": "SabaFon",
+   "type": "MOBILE"
+  },
+  {
+   "region": "YT",
+   "source": "example",
+   "e164": "+262269601234",
+   "country_code": 262,
+   "description": "Mayotte",
+   "country_name": "Mayotte",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "YT",
+   "source": "mobile",
+   "e164": "+262639012345",
+   "country_code": 262,
+   "description": "Mayotte",
+   "country_name": "Mayotte",
+   "carrier": "Orange",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ZA",
+   "source": "example",
+   "e164": "+27101234567",
+   "country_code": 27,
+   "description": "Johannesburg",
+   "country_name": "South Africa",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ZA",
+   "source": "mobile",
+   "e164": "+27711234567",
+   "country_code": 27,
+   "description": "South Africa",
+   "country_name": "South Africa",
+   "carrier": "Vodacom",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ZM",
+   "source": "example",
+   "e164": "+260211234567",
+   "country_code": 260,
+   "description": "Lusaka Province",
+   "country_name": "Zambia",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ZM",
+   "source": "mobile",
+   "e164": "+260955123456",
+   "country_code": 260,
+   "description": "Zambia",
+   "country_name": "Zambia",
+   "carrier": "ZAMTEL",
+   "type": "MOBILE"
+  },
+  {
+   "region": "ZW",
+   "source": "example",
+   "e164": "+263202012345",
+   "country_code": 263,
+   "description": "Mutare",
+   "country_name": "Zimbabwe",
+   "carrier": "",
+   "type": "FIXED_LINE"
+  },
+  {
+   "region": "ZW",
+   "source": "mobile",
+   "e164": "+263712345678",
+   "country_code": 263,
+   "description": "Zimbabwe",
+   "country_name": "Zimbabwe",
+   "carrier": "Net*One",
+   "type": "MOBILE"
+  }
+ ]
+}
